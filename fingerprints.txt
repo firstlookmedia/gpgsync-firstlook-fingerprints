@@ -11,6 +11,7 @@ EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@th
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <andrewfishman@theintercept.com>
 6DA5 6DFA BBC5 AFD2 1E86  9F13 00AC 0C34 4269 F13F # Andrew Hinderaker <andrew.hinderaker@firstlook.org>
 FBFD 652E 3DB7 D3D5 1F57  0FD5 5799 4961 84D0 AAB9 # Andy Carvin <andy@firstlook.org>
+57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
 2B92 8A93 90C6 D964 AB4B  C3E8 64E8 8811 33B8 9221 # Anna Holmes <anna.holmes@firstlook.org>
 8069 1E7F E40C 6970 057A  0575 1ECA 7D27 A851 A07B # Anne Neczypor <anne.neczypor@firstlook.org>
 4E67 3E40 91F0 B89B 6520  5EA6 42C7 B05B B070 AF3C # Annie Marter <annie.marter@firstlook.org>
@@ -21,6 +22,7 @@ F560 79E3 97B3 53FA 8D3F  F753 9315 0AF0 683F AEEE # Ben Garchar <ben.garchar@fi
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
 D5E4 0A0F 2A87 3AA2 D1C0  8709 9435 A81F 1B6B 8F23 # Carole Robinson <carole.robinson@firstlook.org>
 529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.liberman@firstlook.org>
+B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.seo@firstlook.org>
 5D06 1CA2 F440 AAB8 99CE  F615 DB69 2347 930F C367 # Charlotte Cook <charlotte.cook@theintercept.com>
 D228 CF93 4DB8 CAB3 38F9  B0D2 F237 F239 219A 5AB1 # Charlotte Greensit <charlotte.greensit@theintercept.com>
 5202 24E6 52A5 1D81 6235  F4BE 1BA4 1B6F D115 D439 # Connie Yu <connie.yu@theintercept.com>
@@ -71,6 +73,7 @@ D301 003E DD1E 1BEA 6BE0  181B BB58 C7E5 F949 4209 # Margot Williams <margot.wil
 403C 14D5 C1F4 3F9A 20CC  4D5D 1BE2 875A 9697 A1D9 # Marina Petrillo <marina.petrillo@firstlook.org>
 5237 EBC5 7243 BBD7 10EF  A84D F590 344A 01BC 0A9F # Matt Bors <matt.bors@firstlook.org>
 9792 BA31 7D22 A17A 775A  D207 78DA 9953 FAF5 9056 # Matt Chmiel <matt.chmiel@firstlook.org>
+89DF F285 293F F040 25D7  230A B9BE 0ACC D3D6 8747 # Mattathias Schwartz <Mattathias.Schwartz@theintercept.com>
 F1D3 A76E 5BBE 77F2 8430  EF8B 950A 7D6C FB5A F0A9 # Matthew Cole <matthew.cole@theintercept.com>
 CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheatley@firstlook.org>
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
@@ -101,6 +104,7 @@ B3BC F4A8 8BF4 39C5 F5AB  EBE5 25D4 7DD2 2B4A 541E # Roger Hodge <roger.hodge@th
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
 CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerner@theintercept.com>
 3844 28CD 765C 44E7 59B5  48BF A998 423E 2153 4D14 # Sharon Weinberger <sharon.weinberger@theintercept.com>
+F579 8B54 ED3E BE1A 5D70  8A91 F0A1 F75C D565 D49B # Shaun Lucas <shaun.lucas@theintercept.com>
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
 76E8 943B 0075 2D42 0A37  B8C4 9DC6 21EC 7332 AE84 # Sonora Sneed <sonora.sneed@firstlook.org>
 54E1 6ECF F9FF 5A4A B52B  05E8 9811 B9CF B0D2 B7B3 # Soohee Cho <soohee.cho@theintercept.com>
