@@ -55,6 +55,7 @@ EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@
 0385 74A7 1C7A ADFF B022  D3A5 650E 561F C088 82D5 # Kate Vieh <kate.vieh@firstlook.org>
 1056 28EC DC06 4CE1 DAD4  4AC3 AE77 6C28 60DA 73D9 # Kara Latta <kara@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
+7A71 E37D 158F 6646 8535  0BDC 6099 45E9 BA82 1A9D # Kelli Vanover <kelli.vanover@firstlook.org>
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
 5C7B 72A9 053F 36B8 677B  5684 7FF6 D25F 90CE 47B7 # Kim Bui <kim.bui@firstlook.org>
 1E80 B8C5 0FFA CD75 580A  9EAA A3D9 1720 3E50 9809 # Larry Ho <larry@firstlook.org>
