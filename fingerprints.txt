@@ -115,6 +115,7 @@ F579 8B54 ED3E BE1A 5D70  8A91 F0A1 F75C D565 D49B # Shaun Lucas <shaun.lucas@th
 8221 2518 21CC 1EB5 6930  DE93 C976 1933 DBEA AA25 # Steven Winiarz <steven@firstlook.org>
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
 296F 0561 002E 6CA8 F730  CCF9 AEC7 4BDA 8BFC 6F46 # Susan Tener <susan.tener@firstlook.org>
+B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
 2C45 3E6F C6DC 9799 B82A  7098 DC1B A702 647A 8662 # Talya Cooper <talya.cooper@firstlook.org>
 1962 BA86 D407 86C0 6B36  67EC 9143 7C3F FD3E E3E1 # Todd Fleisher <todd@firstlook.org>
 8B25 532F E134 62D9 4AF0  26A3 0F2C 120C 0A5D C5D4 # Todd Green <todd.green@firstlook.org>
