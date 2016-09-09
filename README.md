@@ -8,3 +8,8 @@ pub   rsa4096/FD3ED09F 2016-02-17 [SC] [expires: 2017-02-16]
       uid         [  full  ] First Look Authority
       sub   rsa4096/4F632ADB 2016-02-17 [E] [expires: 2017-02-16]
 ```
+
+To configure a [GPG Sync](https://github.com/firstlookmedia/gpgsync) endpoint, use these values:
+
+* GPG Fingerprint: `86EB84C96B2E62676B47C4919BB29FF9FD3ED09F`
+* Fingerprints URL: `https://raw.githubusercontent.com/firstlookmedia/gpgsync-firstlook-fingerprints/master/fingerprints.txt`
