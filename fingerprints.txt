@@ -9,7 +9,7 @@ EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@th
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
 4080 9BE9 4857 5425 74CC  6FE2 ABF0 7AE9 00D2 3580 # Alyssa Coppelman <alyssa.coppelman@theintercept.com>
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
-8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <andrewfishman@theintercept.com>
+8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 6DA5 6DFA BBC5 AFD2 1E86  9F13 00AC 0C34 4269 F13F # Andrew Hinderaker <andrew.hinderaker@firstlook.org>
 FBFD 652E 3DB7 D3D5 1F57  0FD5 5799 4961 84D0 AAB9 # Andy Carvin <andy@firstlook.org>
 57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
@@ -17,14 +17,14 @@ A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna
 2B92 8A93 90C6 D964 AB4B  C3E8 64E8 8811 33B8 9221 # Anna Holmes <anna.holmes@firstlook.org>
 8069 1E7F E40C 6970 057A  0575 1ECA 7D27 A851 A07B # Anne Neczypor <anne.neczypor@firstlook.org>
 4E67 3E40 91F0 B89B 6520  5EA6 42C7 B05B B070 AF3C # Annie Marter <annie.marter@firstlook.org>
-90CA BF88 3846 7C1F 8FDD  070C 7062 0841 0AE9 A362 # Asteris Masouras <asterios@firstlook.org>
+90CA BF88 3846 7C1F 8FDD  070C 7062 0841 0AE9 A362 # Asteris Masouras <asteris.masouras@firstlook.org>
 F560 79E3 97B3 53FA 8D3F  F753 9315 0AF0 683F AEEE # Ben Garchar <ben.garchar@fieldofvision.org>
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 6D05 0EE1 D3D5 62C5 C2A6  FE28 B4EB 7981 4ACB 7EBF # Betty Chere <betty.chere@firstlook.org>
 AF44 2189 C75A 8387 C7E8  0FA4 6A94 8D10 1CF5 BEBC # Breno Costa <breno.costa@theintercept.com>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
 D5E4 0A0F 2A87 3AA2 D1C0  8709 9435 A81F 1B6B 8F23 # Carole Robinson <carole.robinson@firstlook.org>
-529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.liberman@firstlook.org>
+529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.lieberman@firstlook.org>
 B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.seo@firstlook.org>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
 5D06 1CA2 F440 AAB8 99CE  F615 DB69 2347 930F C367 # Charlotte Cook <charlotte.cook@theintercept.com>
@@ -52,8 +52,8 @@ B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconne
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
 AC08 1D1F 2612 E977 6471  946D FAB3 D922 893C 1FF7 # Jenna McLaughlin <jenna.mclaughlin@theintercept.com>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
-A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@theintercept.com>
-7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwartz@theintercept.com>
+A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@firstlook.org>
+7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwarz@theintercept.com>
 3608 4B2E DB6C 9B76 9865  6D6A 92ED AB63 BA82 B164 # Jordan Hellman <jordan.hellman@firstlook.org>
 E371 5887 D561 F109 56D6  9D4A 43E3 727D A48C 358A # Jordan Smith <jordan.smith@theintercept.com>
 66AA 0E12 87B6 60A2 109D  E5DE 9297 05D3 ED78 3DA6 # Jorge Jackson <jorge.jackson@firstlook.org>
@@ -81,7 +81,7 @@ A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@fi
 5ED5 7BBB 297F E146 CEBB  BBE6 5BF2 D1FC 2D98 AEF6 # Lydia Cheuk <lydia.cheuk@firstlook.org>
 DDB3 7996 A11B CF83 F46F  4AB9 B8CB D02C D7D5 1E78 # Lynn Dombek <lynn.dombek@firstlook.org>
 2074 E6C1 3AE8 78D4 F96C  4906 EFE3 DFA2 5FCE D907 # Lynn Oberlander <lynn.oberlander@firstlook.org>
-A2D3 9531 C36B 2DDD A876  BE9C E308 1EC0 2BA7 FEFB # Malachy Browne <malachy.browne@firstlook.org>
+A2D3 9531 C36B 2DDD A876  BE9C E308 1EC0 2BA7 FEFB # Malachy Browne <malachy@firstlook.org>
 D301 003E DD1E 1BEA 6BE0  181B BB58 C7E5 F949 4209 # Margot Williams <margot.williams@theintercept.com>
 403C 14D5 C1F4 3F9A 20CC  4D5D 1BE2 875A 9697 A1D9 # Marina Petrillo <marina.petrillo@firstlook.org>
 5237 EBC5 7243 BBD7 10EF  A84D F590 344A 01BC 0A9F # Matt Bors <matt.bors@firstlook.org>
