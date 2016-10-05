@@ -34,6 +34,7 @@ D228 CF93 4DB8 CAB3 38F9  B0D2 F237 F239 219A 5AB1 # Charlotte Greensit <charlot
 5202 24E6 52A5 1D81 6235  F4BE 1BA4 1B6F D115 D439 # Connie Yu <connie.yu@theintercept.com>
 73FF EEE8 D773 173A 7BD0  CEB2 969F 24F4 C809 2B47 # Cora Currier <cora.currier@theintercept.com>
 8414 BBFE 9FD1 8FFC F99D  C711 107F 3B48 AC64 7C0E # Daniel Froomkin <dan.froomkin@theintercept.com>
+3AA4 8D50 809F ADB2 0A1C  CCB1 B524 CDEB 5528 528A # Danielle Marie Mackey <danielle.mackey@theintercept.com>
 A5A3 68F4 DDEE E4D9 CB77  BE81 2B27 E8F5 E9E1 EF41 # Dan Shearer <dan.shearer@firstlook.org>
 61C3 7F22 5D22 D44C 33F7  1B3F 8820 96E0 F2FD 3916 # Debbie Cohen <debbie.cohen@firstlook.org>
 0816 00AF D63C BA49 44BB  6945 58F5 0D56 35FC DCF1 # Dino Anderson <dino@firstlook.org>
@@ -53,6 +54,7 @@ B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconne
 62BF F048 0077 1341 FEB3  B75C 76DC B628 6C3A 87CA # Jeff Seelbach <jeffrey.seelbach@firstlook.org>
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
 AC08 1D1F 2612 E977 6471  946D FAB3 D922 893C 1FF7 # Jenna McLaughlin <jenna.mclaughlin@theintercept.com>
+5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
 A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@firstlook.org>
 7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwarz@theintercept.com>
@@ -75,6 +77,7 @@ EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@
 3217 C509 292F C670 76EC  D75C 7614 269B DDF7 3B36 # Laura Poitras <laura.poitras@theintercept.com>
 ABD5 8E4E F96F FFDB 4633  1EDB 1473 DCB6 BBB1 F0DD # Lauren Epstein <lauren.epstein@firstlook.org>
 7E99 79A8 C6B0 27E6 B724  8931 BEAC 16CC 3766 D97C # Lee Fang <lee.fang@theintercept.com>
+1A65 6E91 AC75 99F2 970B  9011 8622 838D 5227 965D # Leital Molad <leital.molad@firstlook.org>
 77F4 347E 34C2 124A BA68  5FFF 17CC F4C4 2181 38E4 # Liliana Segura <liliana.segura@theintercept.com>
 A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@firstlook.org>
 46D3 3FA2 833A B09D 1BF6  EC51 656C F00A 2551 C040 # Lisa Leingang <lisa.leingang@firstlook.org>
@@ -109,13 +112,15 @@ D6D9 EF26 5F1A 2160 151D  7D41 0289 F8A1 1A27 F410 # Nick Martin <nick.martin@th
 CD84 F3D1 A7C1 C7F2 AA6E  A60C D139 D3E6 33F2 7C98 # Phil Delbourgo <phil.delbourgo@firstlook.org>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
 DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omidyar@firstlook.org>
-FB69 413B 37FD 6BFE BB10  E446 8383 CB44 A936 3692 # Prince Serna <prince@firstlook.org>
+FB69 413B 37FD 6BFE BB10  E446 8383 CB44 A936 3692 # Prince Serna <prince@firstlook.org> (revoked)
+D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org>
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
 8116 888D 8C37 230D 1212  68E2 415F 63C7 1968 D8F6 # Rebecca Workman <rebecca.workman@firstlook.org>
 FB79 2352 6F3C BA07 909D  766F 8F6C AB73 335F B9D8 # Robert Mackey <robert.mackey@theintercept.com>
 B3BC F4A8 8BF4 39C5 F5AB  EBE5 25D4 7DD2 2B4A 541E # Roger Hodge <roger.hodge@theintercept.com>
 7103 0E04 06B9 7D41 E94A  F6A9 B709 B967 781B D8E2 # Rubina Fillion <rubina@firstlook.org>
+A6AA 12AD 62A6 7479 A0BE  CBCE C005 0B2F 457C F2B2 # Ryan Chanatry <ryan.chanatry@firstlook.org>
 3728 F848 0034 DE9A 9B93  EF19 9821 E4B0 0BF1 57E3 # Ryan Devereaux <ryan.devereaux@theintercept.com>
 1818 A67A CE48 F9A6 769B  2FA9 8E9D DDC9 16C0 4FB2 # Ryan Gallagher <ryan.gallagher@theintercept.com>
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
@@ -156,5 +161,6 @@ BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegel
 # Organization keys
 F936 5F76 C4BE F201 61E4  0DC4 E466 33EE 2572 2CFB # First Look Security <security@firstlook.org>
 2E60 0ED7 465D 2FA0 93D5  7C16 E1AB 5404 3B5F 2CB0 # IT FLS <nyctech@firstlook.org>
-F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
 91C0 C982 A41F 8D39 3953  1A71 FAB7 37F9 C5C1 CA80 # Warrant Canary Signing Key <canary@firstlook.org>
+F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
+13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
