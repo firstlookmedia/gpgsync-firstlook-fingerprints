@@ -75,6 +75,7 @@ EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@
 1E80 B8C5 0FFA CD75 580A  9EAA A3D9 1720 3E50 9809 # Larry Ho <larry@firstlook.org>
 0524 64E3 A22F D17A 5226  A2A8 87CA 2BF1 F907 36BD # Laura Argintar <laura.argintar@firstlook.org>
 3217 C509 292F C670 76EC  D75C 7614 269B DDF7 3B36 # Laura Poitras <laura.poitras@theintercept.com>
+7CEF 374E 0922 D310 14AA  0ADD FFC6 A4A3 3A90 4931 # Laura Secor <laura.secor@theintercept.com>
 ABD5 8E4E F96F FFDB 4633  1EDB 1473 DCB6 BBB1 F0DD # Lauren Epstein <lauren.epstein@firstlook.org>
 7E99 79A8 C6B0 27E6 B724  8931 BEAC 16CC 3766 D97C # Lee Fang <lee.fang@theintercept.com>
 1A65 6E91 AC75 99F2 970B  9011 8622 838D 5227 965D # Leital Molad <leital.molad@firstlook.org>
@@ -83,7 +84,7 @@ A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@fi
 46D3 3FA2 833A B09D 1BF6  EC51 656C F00A 2551 C040 # Lisa Leingang <lisa.leingang@firstlook.org>
 0070 635E F851 83F6 9831  99CC 7BC6 7D29 ED42 B4F7 # Lisa Minnetto <lisa.minnetto@firstlook.org>
 2D00 7182 498A B60F 67C1  FE6D 1B65 250D 7E98 DDE9 # Lise Woods -Fink <lise@firstlook.org>
-1902 64C1 66FA 8844 2A5E  180D 586F 4FF5 A8FE C488 # LJ Ruell <lj.ruell@firstlook.org>
+1902 64C1 66FA 8844 2A5E  180D 586F 4FF5 A8FE C488 # LJ Ruell <lj.ruell@theintercept.com>
 5ED5 7BBB 297F E146 CEBB  BBE6 5BF2 D1FC 2D98 AEF6 # Lydia Cheuk <lydia.cheuk@firstlook.org>
 DDB3 7996 A11B CF83 F46F  4AB9 B8CB D02C D7D5 1E78 # Lynn Dombek <lynn.dombek@firstlook.org>
 2074 E6C1 3AE8 78D4 F96C  4906 EFE3 DFA2 5FCE D907 # Lynn Oberlander <lynn.oberlander@firstlook.org>
