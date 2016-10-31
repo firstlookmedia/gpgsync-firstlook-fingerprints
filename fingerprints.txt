@@ -151,6 +151,7 @@ B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@fi
 FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesanya@firstlook.org>
 9755 57F0 49AB 7FA4 8ED6  51A3 4AF2 65C3 4CE9 7A8E # Travis Mannon <travis.mannon@theintercept.com>
 35D3 F707 4CAB CB4C 812C  F0DA 7C4B 980C 737F 6EF8 # Wendy Carrillo <wendy.carrillo@firstlook.org>
+2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
 30E3 489F 7EC9 555E F0A2  5A95 6897 0BE6 DCB3 09F0 # Will Fitzpatrick <will@firstlook.org>
 8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
