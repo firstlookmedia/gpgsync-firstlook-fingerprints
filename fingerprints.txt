@@ -26,6 +26,7 @@ AF44 2189 C75A 8387 C7E8  0FA4 6A94 8D10 1CF5 BEBC # Breno Costa <breno.costa@th
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
 D5E4 0A0F 2A87 3AA2 D1C0  8709 9435 A81F 1B6B 8F23 # Carole Robinson <carole.robinson@firstlook.org>
+5FDD 6DA6 10E5 FD4C A260  BA77 7D01 039C 2343 BDC9 # Caroline Smith <caroline.smith@firstlook.org>
 529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.lieberman@firstlook.org>
 B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.seo@firstlook.org>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
@@ -80,6 +81,7 @@ ABD5 8E4E F96F FFDB 4633  1EDB 1473 DCB6 BBB1 F0DD # Lauren Epstein <lauren.epst
 CE37 E44E 7836 7B8E 8844  5E5C DC13 A9E4 2AA7 0A62 # Lauren Feeney <lauren.feeney@theintercept.com>
 7E99 79A8 C6B0 27E6 B724  8931 BEAC 16CC 3766 D97C # Lee Fang <lee.fang@theintercept.com>
 1A65 6E91 AC75 99F2 970B  9011 8622 838D 5227 965D # Leital Molad <leital.molad@firstlook.org>
+DF38 59B7 0CD7 7891 31FA  16EC 1487 C057 E1C0 4274 # Leslie Lulham <leslie.lulham@firstlook.org>
 77F4 347E 34C2 124A BA68  5FFF 17CC F4C4 2181 38E4 # Liliana Segura <liliana.segura@theintercept.com>
 A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@firstlook.org>
 46D3 3FA2 833A B09D 1BF6  EC51 656C F00A 2551 C040 # Lisa Leingang <lisa.leingang@firstlook.org>
@@ -120,12 +122,14 @@ D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstl
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
 8116 888D 8C37 230D 1212  68E2 415F 63C7 1968 D8F6 # Rebecca Workman <rebecca.workman@firstlook.org>
+4864 FDAF C1DB DC02 5B1E  1098 41BF 77A8 8E9D FB64 # Reyhan Harmanci <reyhan.harmanci@firstlook.org>
 FB79 2352 6F3C BA07 909D  766F 8F6C AB73 335F B9D8 # Robert Mackey <robert.mackey@theintercept.com>
 B3BC F4A8 8BF4 39C5 F5AB  EBE5 25D4 7DD2 2B4A 541E # Roger Hodge <roger.hodge@theintercept.com>
 7103 0E04 06B9 7D41 E94A  F6A9 B709 B967 781B D8E2 # Rubina Fillion <rubina@firstlook.org>
 A6AA 12AD 62A6 7479 A0BE  CBCE C005 0B2F 457C F2B2 # Ryan Chanatry <ryan.chanatry@firstlook.org>
 3728 F848 0034 DE9A 9B93  EF19 9821 E4B0 0BF1 57E3 # Ryan Devereaux <ryan.devereaux@theintercept.com>
 1818 A67A CE48 F9A6 769B  2FA9 8E9D DDC9 16C0 4FB2 # Ryan Gallagher <ryan.gallagher@theintercept.com>
+BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@firstlook.org>
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
 8965 639B 5A5E 3391 9AD7  4553 9D72 36EE B292 4881 # Sarah Freedman <sarah.freedman@firstlook.org>
 23E1 18B0 0BA3 31B8 FD12  CACE F65A B28F 06DF 55A6 # Sarah Steven <sarah@omidyargroup.com>
@@ -137,7 +141,6 @@ F579 8B54 ED3E BE1A 5D70  8A91 F0A1 F75C D565 D49B # Shaun Lucas <shaun.lucas@th
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
 76E8 943B 0075 2D42 0A37  B8C4 9DC6 21EC 7332 AE84 # Sonora Sneed <sonora.sneed@firstlook.org>
 54E1 6ECF F9FF 5A4A B52B  05E8 9811 B9CF B0D2 B7B3 # Soohee Cho <soohee.cho@theintercept.com>
-0E75 786E 7952 EB12 77F0  FEAF EF1E 471E 7E87 DF29 # Stephane Elbaz <stephane.elbaz@firstlook.org>
 5B80 E1D0 4900 ED58 3EE8  D9B0 8BF0 79BC 34B8 6212 # Stephen Cronin <stephen.cronin@firstlook.org>
 8221 2518 21CC 1EB5 6930  DE93 C976 1933 DBEA AA25 # Steven Winiarz <steven@firstlook.org>
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
