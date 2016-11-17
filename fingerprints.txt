@@ -8,6 +8,7 @@ EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@th
 8FBF C86B EFF6 CE21 48EE  0DC5 5937 9E23 EA01 2B37 # Alleen Brown <alleen.brown@theintercept.com>
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
 4080 9BE9 4857 5425 74CC  6FE2 ABF0 7AE9 00D2 3580 # Alyssa Coppelman <alyssa.coppelman@theintercept.com>
+D6F0 37AE 1A83 4EC4 7915  F899 0876 A370 C200 B6AE # Ana Freitas <ana.freitas@theintercept.com>
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 6DA5 6DFA BBC5 AFD2 1E86  9F13 00AC 0C34 4269 F13F # Andrew Hinderaker <andrew.hinderaker@firstlook.org>
@@ -153,6 +154,7 @@ B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@fi
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
 FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesanya@firstlook.org>
 9755 57F0 49AB 7FA4 8ED6  51A3 4AF2 65C3 4CE9 7A8E # Travis Mannon <travis.mannon@theintercept.com>
+ECAB 122B 812F 85CA 1932  79CE 2884 60E0 745F 73A6 # Uyen Tieu <uyen.tieu@firstlook.org>
 35D3 F707 4CAB CB4C 812C  F0DA 7C4B 980C 737F 6EF8 # Wendy Carrillo <wendy.carrillo@firstlook.org>
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
 30E3 489F 7EC9 555E F0A2  5A95 6897 0BE6 DCB3 09F0 # Will Fitzpatrick <will@firstlook.org>
