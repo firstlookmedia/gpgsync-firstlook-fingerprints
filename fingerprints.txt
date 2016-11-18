@@ -47,6 +47,7 @@ CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theint
 6BB3 9C06 9B2F D37E 44FC  07F7 808B 3E47 3329 1018 # Erinn Clark <erinn.clark@firstlook.org>
 4716 E0C0 F3B0 785A 1DE0  A67F 2F1A 7F5A 496D 98C9 # Farihah Zamen <farihah@fieldofvision.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
+C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marques@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
 1944 092F FF1D 5CE0 29EF  2209 CB1D AE1E 8B0E D710 # Helena Borges <helena.borges@firstlook.org>
