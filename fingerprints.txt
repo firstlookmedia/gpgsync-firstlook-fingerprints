@@ -39,6 +39,7 @@ D228 CF93 4DB8 CAB3 38F9  B0D2 F237 F239 219A 5AB1 # Charlotte Greensit <charlot
 3AA4 8D50 809F ADB2 0A1C  CCB1 B524 CDEB 5528 528A # Danielle Marie Mackey <danielle.mackey@theintercept.com>
 A5A3 68F4 DDEE E4D9 CB77  BE81 2B27 E8F5 E9E1 EF41 # Dan Shearer <dan.shearer@firstlook.org>
 61C3 7F22 5D22 D44C 33F7  1B3F 8820 96E0 F2FD 3916 # Debbie Cohen <debbie.cohen@firstlook.org>
+F5FF 97E5 4FC0 452B FB22  A423 5320 A817 EEBA E631 # Dina Chang <dina.chang@firstlook.org>
 0816 00AF D63C BA49 44BB  6945 58F5 0D56 35FC DCF1 # Dino Anderson <dino@firstlook.org>
 296D 4CBC CBFC 54E3 C5C3  D8C3 C8C3 A735 A3A5 C023 # Eleri Harris <eleri.harris@firstlook.org>
 CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theintercept.com>
