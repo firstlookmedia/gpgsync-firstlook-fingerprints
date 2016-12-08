@@ -56,7 +56,7 @@ CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.gi
 D940 24EC 7F66 A77E 5EB3  D4FB 0B9B BD07 867A 795F # Inacio Vieira <inacio.vieira@theintercept.com>
 3B4B AF86 69C9 8612 C606  CBD0 B786 5754 0462 AD6F # J. Gabriel Boylan <gabriel.boylan@firstlook.org>
 F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # J Prins <jon.prins@firstlook.org>
-D5AC F245 6108 0EA2 96D2  82D9 EE29 C426 59F7 68AC # Jack D'Isidoro <jack.d-isidoro@firstlook.org>
+EB7C 1E42 D49D A953 FBF7  DF3C FF7A B2FA B291 70B8 # Jack D'Isidoro <jack.disidoro@firstlook.org>
 3A5B 1ADD DFDE 3DF1 EB1F  3086 D17B F333 0BB8 7160 # Jamaal Glenn <jamaal.glenn@firstlook.org>
 A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.kedas@firstlook.org>
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
