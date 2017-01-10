@@ -78,6 +78,7 @@ EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 37C1 7E38 0549 E939 A1E5  470E 5770 0524 26A1 261F # Justin Nesci <Justin.Nesci@firstlook.org>
 0385 74A7 1C7A ADFF B022  D3A5 650E 561F C088 82D5 # Kate Vieh <kate.vieh@firstlook.org>
+6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 1056 28EC DC06 4CE1 DAD4  4AC3 AE77 6C28 60DA 73D9 # Kara Latta <kara@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
 7A71 E37D 158F 6646 8535  0BDC 6099 45E9 BA82 1A9D # Kelli Vanover <kelli.vanover@firstlook.org>
@@ -175,7 +176,6 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 CABC 312B 7729 9978 222E  B6D5 B6A5 E270 098A 30B7 # Brad Merk <bradley.merk@firstlook.org>
 3504 B164 C820 4560 F88D  0DE6 2006 BD9F FD7E 013E # Brendan Donovan <brendan.donovan@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
-36BF D8F1 6382 C789 7365  0BE5 E5B1 02B8 8956 B0D6 # Ese Olumhense <ese.olumhense@theintercept.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 
 # Organization keys
