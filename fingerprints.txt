@@ -60,6 +60,7 @@ D940 24EC 7F66 A77E 5EB3  D4FB 0B9B BD07 867A 795F # Inacio Vieira <inacio.vieir
 F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # J Prins <jon.prins@firstlook.org>
 EB7C 1E42 D49D A953 FBF7  DF3C FF7A B2FA B291 70B8 # Jack D'Isidoro <jack.disidoro@firstlook.org>
 3A5B 1ADD DFDE 3DF1 EB1F  3086 D17B F333 0BB8 7160 # Jamaal Glenn <jamaal.glenn@firstlook.org>
+E887 6FF8 7412 2F8C B9C5  CC80 787E 9C3F C860 E72A # Jason Fisher <jason.fisher@firstlook.org>
 A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.kedas@firstlook.org>
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
 62BF F048 0077 1341 FEB3  B75C 76DC B628 6C3A 87CA # Jeff Seelbach <jeffrey.seelbach@firstlook.org>
@@ -80,6 +81,7 @@ EE80 2243 2395 8D2E 8C61  C851 E226 F48F 5C86 A89C # Josh Epstein <josh.epstein@
 0385 74A7 1C7A ADFF B022  D3A5 650E 561F C088 82D5 # Kate Vieh <kate.vieh@firstlook.org>
 6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 1056 28EC DC06 4CE1 DAD4  4AC3 AE77 6C28 60DA 73D9 # Kara Latta <kara@firstlook.org>
+E47A 124B 9AD2 E7BD E855  BF40 6A91 48A2 0001 7D8E # Karina Dandashi <karina.dandashi@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
 7A71 E37D 158F 6646 8535  0BDC 6099 45E9 BA82 1A9D # Kelli Vanover <kelli.vanover@firstlook.org>
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
@@ -148,7 +150,6 @@ BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@fi
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
 CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerner@theintercept.com>
 3844 28CD 765C 44E7 59B5  48BF A998 423E 2153 4D14 # Sharon Weinberger <sharon.weinberger@theintercept.com>
-F579 8B54 ED3E BE1A 5D70  8A91 F0A1 F75C D565 D49B # Shaun Lucas <shaun.lucas@theintercept.com>
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
 76E8 943B 0075 2D42 0A37  B8C4 9DC6 21EC 7332 AE84 # Sonora Sneed <sonora.sneed@firstlook.org>
 54E1 6ECF F9FF 5A4A B52B  05E8 9811 B9CF B0D2 B7B3 # Soohee Cho <soohee.cho@theintercept.com>
