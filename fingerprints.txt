@@ -1,6 +1,7 @@
 # First Look employees
 A201 F9EE 3AC5 DDE1 32B7  2D44 EABF 89F4 F1F0 A6B4 # Adam Pincus <adam.pincus@firstlook.org>
 FC3B A881 F450 81CE C395  A126 BD5E F609 E51D E8F5 # Adam Weinstein <adam.weinstein@firstlook.org>
+4ED0 370C CE26 6D64 130A  AC2F 81A4 9654 5D86 CA47 # AJ Schnack <aj@fieldofvision.org>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
 719D 99E4 1EE4 B049 2E73  F5FB 9663 A6CF 1D75 41C5 # Alice Speri <alice.speri@theintercept.com>
@@ -131,6 +132,7 @@ D6D9 EF26 5F1A 2160 151D  7D41 0289 F8A1 1A27 F410 # Nick Martin <nick.martin@th
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
 87B3 56FE CD45 1C09 647A  25FE D0A5 A92B C33D B701 # Nikhil Kamkolkar <nikhil.kamkolkar@firstlook.org>
 6BC6 8590 ABFC 1B3B 80F7  25B2 A210 7606 74F7 EE3F # Or Rikon <or.rikon@firstlook.org>
+5E35 229B 87D9 8212 8EFA  3DDF DBC6 A62C 501C 6A3D # Parnell Pierre-Louis <parnell.pierrelouis@firstlook.org>
 0C49 0F9D 179E 263F 9FFE  5080 2198 F5B7 D4E5 391A # Peter Maass <petermaass@theintercept.com>
 CD84 F3D1 A7C1 C7F2 AA6E  A60C D139 D3E6 33F2 7C98 # Phil Delbourgo <phil.delbourgo@firstlook.org>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
@@ -171,7 +173,6 @@ B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@fi
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
 FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesanya@firstlook.org>
 9755 57F0 49AB 7FA4 8ED6  51A3 4AF2 65C3 4CE9 7A8E # Travis Mannon <travis.mannon@theintercept.com>
-ECAB 122B 812F 85CA 1932  79CE 2884 60E0 745F 73A6 # Uyen Tieu <uyen.tieu@firstlook.org>
 FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@theintercept.com>
 35D3 F707 4CAB CB4C 812C  F0DA 7C4B 980C 737F 6EF8 # Wendy Carrillo <wendy.carrillo@firstlook.org>
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
