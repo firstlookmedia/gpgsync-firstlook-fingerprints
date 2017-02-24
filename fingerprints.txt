@@ -49,6 +49,7 @@ F5FF 97E5 4FC0 452B FB22  A423 5320 A817 EEBA E631 # Dina Chang <dina.chang@firs
 0816 00AF D63C BA49 44BB  6945 58F5 0D56 35FC DCF1 # Dino Anderson <dino@firstlook.org>
 296D 4CBC CBFC 54E3 C5C3  D8C3 C8C3 A735 A3A5 C023 # Eleri Harris <eleri.harris@firstlook.org>
 8434 FACC C05A 31BA 8E7F  2905 06E9 19B6 BE58 D5E3 # Elisa Cho <elisa.cho@firstlook.org>
+DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@firstlook.org>
 F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com>
 CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theintercept.com>
 60E3 ED8F ADF7 F32E DB7F  CFB9 EF93 340E 12EF 5151 # Erin O'Rourke <erin.orourke@firstlook.org>
