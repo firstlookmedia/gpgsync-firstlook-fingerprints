@@ -24,6 +24,7 @@ F560 79E3 97B3 53FA 8D3F  F753 9315 0AF0 683F AEEE # Ben Garchar <ben.garchar@fi
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 6D05 0EE1 D3D5 62C5 C2A6  FE28 B4EB 7981 4ACB 7EBF # Betty Chere <betty.chere@firstlook.org>
 AF44 2189 C75A 8387 C7E8  0FA4 6A94 8D10 1CF5 BEBC # Breno Costa <breno.costa@theintercept.com>
+D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
 28C8 A063 18F7 104D 18BC  8924 1296 7381 9D79 C37F # Brian Chance <brian.chance@firstlook.org>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
