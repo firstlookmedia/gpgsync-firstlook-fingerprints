@@ -184,6 +184,7 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 # Interns
 3504 B164 C820 4560 F88D  0DE6 2006 BD9F FD7E 013E # Brendan Donovan <brendan.donovan@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
+4AC6 6B18 7B32 304F F26E  CDEB 779E B3ED 702C 41F1 # Malak Habbak <malak.habbak@theintercept.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 
 # Organization keys
