@@ -120,6 +120,7 @@ D301 003E DD1E 1BEA 6BE0  181B BB58 C7E5 F949 4209 # Margot Williams <margot.wil
 9792 BA31 7D22 A17A 775A  D207 78DA 9953 FAF5 9056 # Matt Chmiel <matt.chmiel@firstlook.org>
 89DF F285 293F F040 25D7  230A B9BE 0ACC D3D6 8747 # Mattathias Schwartz <Mattathias.Schwartz@theintercept.com>
 F1D3 A76E 5BBE 77F2 8430  EF8B 950A 7D6C FB5A F0A9 # Matthew Cole <matthew.cole@theintercept.com>
+C1E3 2541 269E 5051 CB9B  B977 0A18 90CC 617D DED5 # Maxwell Newlands <maxwell.newlands@firstlook.org>
 CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheatley@firstlook.org>
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
 155C F332 53F8 E412 8667  D33B 9EE9 C200 8FF1 E71E # Michael Bloom <michael.bloom@firstlook.org>
