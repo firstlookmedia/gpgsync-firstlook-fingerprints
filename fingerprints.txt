@@ -19,7 +19,7 @@ A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna
 8069 1E7F E40C 6970 057A  0575 1ECA 7D27 A851 A07B # Anne Neczypor <anne.neczypor@firstlook.org>
 4E67 3E40 91F0 B89B 6520  5EA6 42C7 B05B B070 AF3C # Annie Marter <annie.marter@firstlook.org>
 90CA BF88 3846 7C1F 8FDD  070C 7062 0841 0AE9 A362 # Asteris Masouras <asteris.masouras@firstlook.org>
-D1B0 C213 C358 48DB C441  8617 9191 62F4 4A11 5714 # Bee Vang <Bee@fieldofvision.org>
+D1B0 C213 C358 48DB C441  8617 9191 62F4 4A11 5714 # Bee Vang <Bee@fieldofvision.org> (revoked)
 F560 79E3 97B3 53FA 8D3F  F753 9315 0AF0 683F AEEE # Ben Garchar <ben.garchar@fieldofvision.org>
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 6D05 0EE1 D3D5 62C5 C2A6  FE28 B4EB 7981 4ACB 7EBF # Betty Chere <betty.chere@firstlook.org>
@@ -104,6 +104,7 @@ CE37 E44E 7836 7B8E 8844  5E5C DC13 A9E4 2AA7 0A62 # Lauren Feeney <lauren.feene
 7E99 79A8 C6B0 27E6 B724  8931 BEAC 16CC 3766 D97C # Lee Fang <lee.fang@theintercept.com>
 1A65 6E91 AC75 99F2 970B  9011 8622 838D 5227 965D # Leital Molad <leital.molad@firstlook.org>
 DF38 59B7 0CD7 7891 31FA  16EC 1487 C057 E1C0 4274 # Leslie Lulham <leslie.lulham@firstlook.org>
+70F1 8DED 726A A081 60AE  8175 8C9F 07B3 9506 24B2 # Lesley Kaplan <lesley.kaplan@firstlook.org>
 77F4 347E 34C2 124A BA68  5FFF 17CC F4C4 2181 38E4 # Liliana Segura <liliana.segura@theintercept.com>
 A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@firstlook.org>
 46D3 3FA2 833A B09D 1BF6  EC51 656C F00A 2551 C040 # Lisa Leingang <lisa.leingang@firstlook.org>
@@ -117,8 +118,10 @@ A2D3 9531 C36B 2DDD A876  BE9C E308 1EC0 2BA7 FEFB # Malachy Browne <malachy@fir
 3DAB FA5A 0F5D 3870 1EC4  6D40 4CC7 A7B8 ECA0 9442 # Man Bartlett <man.bartlett@firstlook.org>
 D301 003E DD1E 1BEA 6BE0  181B BB58 C7E5 F949 4209 # Margot Williams <margot.williams@theintercept.com>
 403C 14D5 C1F4 3F9A 20CC  4D5D 1BE2 875A 9697 A1D9 # Marina Petrillo <marina.petrillo@firstlook.org>
+06FA 9688 798A 372D F2C3  17FD 11E3 1030 7B94 25F4 # Mark Lukenbill <mark.lukenbill@firstlook.org>
 5237 EBC5 7243 BBD7 10EF  A84D F590 344A 01BC 0A9F # Matt Bors <matt.bors@firstlook.org>
 9792 BA31 7D22 A17A 775A  D207 78DA 9953 FAF5 9056 # Matt Chmiel <matt.chmiel@firstlook.org>
+8925 2248 553F E52B 3C89  C68D 393E 872A 3A3D 9E7C # Matt Lubchansky <matt.lubchansky@firstlook.org>
 89DF F285 293F F040 25D7  230A B9BE 0ACC D3D6 8747 # Mattathias Schwartz <Mattathias.Schwartz@theintercept.com>
 F1D3 A76E 5BBE 77F2 8430  EF8B 950A 7D6C FB5A F0A9 # Matthew Cole <matthew.cole@theintercept.com>
 C1E3 2541 269E 5051 CB9B  B977 0A18 90CC 617D DED5 # Maxwell Newlands <maxwell.newlands@firstlook.org>
@@ -131,6 +134,7 @@ CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheat
 3C93 215B BBCB ADC5 17DC  0205 962F 5236 DCF2 F009 # Mona Panchal <mona.panchal@firstlook.org>
 2C59 D7AF B69B 8AC5 AD7D  F8AC BD5F 5925 40B4 4416 # Morgan Marquis-Boire <morgan@firstlook.org>
 8D10 DC92 236F 5FE9 367D  0CEC 3EA8 914C 6790 EAF1 # Murtaza Hussain <murtaza.hussain@theintercept.com>
+9194 941D E02C 51DE D5AC  5DDD 2CDD 6D48 4226 9085 # Nat Welch <nat.welch@firstlook.org>
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 D6D9 EF26 5F1A 2160 151D  7D41 0289 F8A1 1A27 F410 # Nick Martin <nick.martin@theintercept.com>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
@@ -177,6 +181,7 @@ B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@fi
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
 FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesanya@firstlook.org>
 9755 57F0 49AB 7FA4 8ED6  51A3 4AF2 65C3 4CE9 7A8E # Travis Mannon <travis.mannon@theintercept.com>
+9850 A368 56D0 8127 9894  879E F9C8 8503 5C22 1599 # Vince Gonzalez <vince.gonzalez@firstlook.org>
 FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@theintercept.com>
 35D3 F707 4CAB CB4C 812C  F0DA 7C4B 980C 737F 6EF8 # Wendy Carrillo <wendy.carrillo@firstlook.org>
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
