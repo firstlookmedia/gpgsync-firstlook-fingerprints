@@ -85,7 +85,6 @@ B8D1 55C6 E719 F636 9124  E24A FEF0 1CD7 549B BAAA # khadija abuyousif <khadija.
 1E80 B8C5 0FFA CD75 580A  9EAA A3D9 1720 3E50 9809 # Larry Ho <larry@firstlook.org>
 0524 64E3 A22F D17A 5226  A2A8 87CA 2BF1 F907 36BD # Laura Argintar <laura.argintar@firstlook.org>
 3217 C509 292F C670 76EC  D75C 7614 269B DDF7 3B36 # Laura Poitras <laura.poitras@theintercept.com>
-ABD5 8E4E F96F FFDB 4633  1EDB 1473 DCB6 BBB1 F0DD # Lauren Epstein <lauren.epstein@firstlook.org>
 CE37 E44E 7836 7B8E 8844  5E5C DC13 A9E4 2AA7 0A62 # Lauren Feeney <lauren.feeney@theintercept.com>
 7E99 79A8 C6B0 27E6 B724  8931 BEAC 16CC 3766 D97C # Lee Fang <lee.fang@theintercept.com>
 1A65 6E91 AC75 99F2 970B  9011 8622 838D 5227 965D # Leital Molad <leital.molad@firstlook.org>
