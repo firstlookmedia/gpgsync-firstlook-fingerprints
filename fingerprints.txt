@@ -15,7 +15,6 @@ A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna
 2B92 8A93 90C6 D964 AB4B  C3E8 64E8 8811 33B8 9221 # Anna Holmes <anna.holmes@firstlook.org>
 8069 1E7F E40C 6970 057A  0575 1ECA 7D27 A851 A07B # Anne Neczypor <anne.neczypor@firstlook.org>
 4E67 3E40 91F0 B89B 6520  5EA6 42C7 B05B B070 AF3C # Annie Marter <annie.marter@firstlook.org>
-D1B0 C213 C358 48DB C441  8617 9191 62F4 4A11 5714 # Bee Vang <Bee@fieldofvision.org> (revoked)
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 AF44 2189 C75A 8387 C7E8  0FA4 6A94 8D10 1CF5 BEBC # Breno Costa <breno.costa@theintercept.com>
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
@@ -148,7 +147,6 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
 296F 0561 002E 6CA8 F730  CCF9 AEC7 4BDA 8BFC 6F46 # Susan Tener <susan.tener@firstlook.org>
 B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
-2C45 3E6F C6DC 9799 B82A  7098 DC1B A702 647A 8662 # Talya Cooper <talya.cooper@firstlook.org> (revoked)
 17A1 02FE 365C 3A7F EF04  1A76 C903 D6C6 B8A5 E23A # Talya Cooper <talya.cooper@firstlook.org>
 7F9C A185 FC5D A4F4 89FC  12FF B697 5BD7 4266 2575 # Thiago Dezan <thiago.dezan@firstlook.com>
 1962 BA86 D407 86C0 6B36  67EC 9143 7C3F FD3E E3E1 # Todd Fleisher <todd@firstlook.org>
@@ -174,4 +172,3 @@ F936 5F76 C4BE F201 61E4  0DC4 E466 33EE 2572 2CFB # First Look Security <securi
 7BB5 8D35 5BC7 852C 7E49  2858 B5CF CFE1 86AF CDFB # Sigma Omicron Authority
 F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
 91C0 C982 A41F 8D39 3953  1A71 FAB7 37F9 C5C1 CA80 # Warrant Canary Signing Key <canary@firstlook.org>
-2E60 0ED7 465D 2FA0 93D5  7C16 E1AB 5404 3B5F 2CB0 # IT FLS <nyctech@firstlook.org> (revoked)
