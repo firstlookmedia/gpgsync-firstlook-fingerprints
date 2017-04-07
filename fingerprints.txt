@@ -171,6 +171,7 @@ BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegel
 # Organization keys
 13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
 F936 5F76 C4BE F201 61E4  0DC4 E466 33EE 2572 2CFB # First Look Security <security@firstlook.org>
+7BB5 8D35 5BC7 852C 7E49  2858 B5CF CFE1 86AF CDFB # Sigma Omicron Authority
 F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
 91C0 C982 A41F 8D39 3953  1A71 FAB7 37F9 C5C1 CA80 # Warrant Canary Signing Key <canary@firstlook.org>
 2E60 0ED7 465D 2FA0 93D5  7C16 E1AB 5404 3B5F 2CB0 # IT FLS <nyctech@firstlook.org> (revoked)
