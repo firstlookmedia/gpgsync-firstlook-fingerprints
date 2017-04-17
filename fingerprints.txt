@@ -58,7 +58,6 @@ A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.keda
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
 62BF F048 0077 1341 FEB3  B75C 76DC B628 6C3A 87CA # Jeff Seelbach <jeffrey.seelbach@firstlook.org>
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
-AC08 1D1F 2612 E977 6471  946D FAB3 D922 893C 1FF7 # Jenna McLaughlin <jenna.mclaughlin@theintercept.com>
 5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
