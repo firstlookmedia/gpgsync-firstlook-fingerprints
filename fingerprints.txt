@@ -1,7 +1,6 @@
 # First Look employees
 A201 F9EE 3AC5 DDE1 32B7  2D44 EABF 89F4 F1F0 A6B4 # Adam Pincus <adam.pincus@firstlook.org>
 FC3B A881 F450 81CE C395  A126 BD5E F609 E51D E8F5 # Adam Weinstein <adam.weinstein@firstlook.org>
-4ED0 370C CE26 6D64 130A  AC2F 81A4 9654 5D86 CA47 # AJ Schnack <aj@fieldofvision.org>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
 719D 99E4 1EE4 B049 2E73  F5FB 9663 A6CF 1D75 41C5 # Alice Speri <alice.speri@theintercept.com>
@@ -164,7 +163,6 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 # Interns
 3504 B164 C820 4560 F88D  0DE6 2006 BD9F FD7E 013E # Brendan Donovan <brendan.donovan@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
-4AC6 6B18 7B32 304F F26E  CDEB 779E B3ED 702C 41F1 # Malak Habbak <malak.habbak@theintercept.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 
 # Organization keys
