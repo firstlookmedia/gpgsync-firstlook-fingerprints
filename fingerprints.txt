@@ -117,7 +117,6 @@ CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheat
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
 87B3 56FE CD45 1C09 647A  25FE D0A5 A92B C33D B701 # Nikhil Kamkolkar <nikhil.kamkolkar@firstlook.org>
-5E35 229B 87D9 8212 8EFA  3DDF DBC6 A62C 501C 6A3D # Parnell Pierre-Louis <parnell.pierrelouis@firstlook.org>
 0C49 0F9D 179E 263F 9FFE  5080 2198 F5B7 D4E5 391A # Peter Maass <petermaass@theintercept.com>
 CD84 F3D1 A7C1 C7F2 AA6E  A60C D139 D3E6 33F2 7C98 # Phil Delbourgo <phil.delbourgo@firstlook.org>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
@@ -162,8 +161,11 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 
 # Interns
 3504 B164 C820 4560 F88D  0DE6 2006 BD9F FD7E 013E # Brendan Donovan <brendan.donovan@firstlook.org>
+8B10 69B5 EDF4 A680 598F  B1A8 D5A8 60C6 6F88 14B3 # Celeste Erlander <celeste.erlander@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
+F852 0DFF A52A 5E21 3117  B48F C699 BD09 A460 6D5A # Evan Murray <evan.murray@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
+9B5C 4740 321B 78A2 E848  8811 AF1C 0611 92B3 9682 # Tori Eskue <tori.eskue@firstlook.org>
 
 # Organization keys
 13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
