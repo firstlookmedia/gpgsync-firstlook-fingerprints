@@ -3,6 +3,7 @@ A201 F9EE 3AC5 DDE1 32B7  2D44 EABF 89F4 F1F0 A6B4 # Adam Pincus <adam.pincus@fi
 FC3B A881 F450 81CE C395  A126 BD5E F609 E51D E8F5 # Adam Weinstein <adam.weinstein@firstlook.org>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
+475E 9439 CD88 9D98 52A4  1054 BE99 BD1C A96F D159 # Alexandra Jiga <alexandra.jiga@firstlook.org>
 719D 99E4 1EE4 B049 2E73  F5FB 9663 A6CF 1D75 41C5 # Alice Speri <alice.speri@theintercept.com>
 8FBF C86B EFF6 CE21 48EE  0DC5 5937 9E23 EA01 2B37 # Alleen Brown <alleen.brown@theintercept.com>
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
@@ -114,6 +115,7 @@ CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheat
 2C59 D7AF B69B 8AC5 AD7D  F8AC BD5F 5925 40B4 4416 # Morgan Marquis-Boire <morgan@firstlook.org>
 8D10 DC92 236F 5FE9 367D  0CEC 3EA8 914C 6790 EAF1 # Murtaza Hussain <murtaza.hussain@theintercept.com>
 9194 941D E02C 51DE D5AC  5DDD 2CDD 6D48 4226 9085 # Nat Welch <nat.welch@firstlook.org>
+D022 DBCC D897 91EF 8C14  261D 40D7 A9A6 1BB8 E280 # Naya Samuel <naya.samuel@firstlook.org>
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
 87B3 56FE CD45 1C09 647A  25FE D0A5 A92B C33D B701 # Nikhil Kamkolkar <nikhil.kamkolkar@firstlook.org>
