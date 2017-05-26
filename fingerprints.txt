@@ -160,7 +160,6 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
 # Interns
-3504 B164 C820 4560 F88D  0DE6 2006 BD9F FD7E 013E # Brendan Donovan <brendan.donovan@firstlook.org>
 8B10 69B5 EDF4 A680 598F  B1A8 D5A8 60C6 6F88 14B3 # Celeste Erlander <celeste.erlander@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
 F852 0DFF A52A 5E21 3117  B48F C699 BD09 A460 6D5A # Evan Murray <evan.murray@firstlook.org>
