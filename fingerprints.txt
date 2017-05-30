@@ -4,6 +4,7 @@ FC3B A881 F450 81CE C395  A126 BD5E F609 E51D E8F5 # Adam Weinstein <adam.weinst
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
 475E 9439 CD88 9D98 52A4  1054 BE99 BD1C A96F D159 # Alexandra Jiga <alexandra.jiga@firstlook.org>
+BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@theintercept.com>
 719D 99E4 1EE4 B049 2E73  F5FB 9663 A6CF 1D75 41C5 # Alice Speri <alice.speri@theintercept.com>
 8FBF C86B EFF6 CE21 48EE  0DC5 5937 9E23 EA01 2B37 # Alleen Brown <alleen.brown@theintercept.com>
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
@@ -167,6 +168,7 @@ BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegel
 F852 0DFF A52A 5E21 3117  B48F C699 BD09 A460 6D5A # Evan Murray <evan.murray@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 77AF BB55 D47D 7248 6C77  30BF C7EE 723D 410D 56E8 # Samantha Friend <samantha.friend@firstlook.org>
+1FEA 2E8A 548B 2F13 61EA  93E2 3086 5695 9320 DE35 # Samantha Ong <samantha.ong@firstlook.org>
 9B5C 4740 321B 78A2 E848  8811 AF1C 0611 92B3 9682 # Tori Eskue <tori.eskue@firstlook.org>
 
 # Organization keys
