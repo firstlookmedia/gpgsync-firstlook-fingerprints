@@ -166,6 +166,7 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
 F852 0DFF A52A 5E21 3117  B48F C699 BD09 A460 6D5A # Evan Murray <evan.murray@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
+77AF BB55 D47D 7248 6C77  30BF C7EE 723D 410D 56E8 # Samantha Friend <samantha.friend@firstlook.org>
 9B5C 4740 321B 78A2 E848  8811 AF1C 0611 92B3 9682 # Tori Eskue <tori.eskue@firstlook.org>
 
 # Organization keys
