@@ -58,6 +58,7 @@ E887 6FF8 7412 2F8C B9C5  CC80 787E 9C3F C860 E72A # Jason Fisher <jason.fisher@
 A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.kedas@firstlook.org>
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
 62BF F048 0077 1341 FEB3  B75C 76DC B628 6C3A 87CA # Jeff Seelbach <jeffrey.seelbach@firstlook.org>
+A941 8881 2F15 4061 4150  CA96 C1C7 F85A F78F A952 # Jennifer Kerrigan <jennifer.kerrigan@theintercept.com>
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
 5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
@@ -82,7 +83,6 @@ E47A 124B 9AD2 E7BD E855  BF40 6A91 48A2 0001 7D8E # Karina Dandashi <karina.dan
 7A71 E37D 158F 6646 8535  0BDC 6099 45E9 BA82 1A9D # Kelli Vanover <kelli.vanover@firstlook.org>
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
 B8D1 55C6 E719 F636 9124  E24A FEF0 1CD7 549B BAAA # khadija abuyousif <khadija.abuyousif@firstlook.org>
-4472 6C50 79A1 D566 966F  6B18 C487 824C DB5C 8BF6 # Kimberly Bubello <kimberly.bubello@theintercept.com>
 1E80 B8C5 0FFA CD75 580A  9EAA A3D9 1720 3E50 9809 # Larry Ho <larry@firstlook.org>
 0524 64E3 A22F D17A 5226  A2A8 87CA 2BF1 F907 36BD # Laura Argintar <laura.argintar@firstlook.org>
 3217 C509 292F C670 76EC  D75C 7614 269B DDF7 3B36 # Laura Poitras <laura.poitras@theintercept.com>
