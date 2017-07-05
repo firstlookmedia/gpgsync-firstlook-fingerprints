@@ -110,7 +110,6 @@ CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheat
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
 155C F332 53F8 E412 8667  D33B 9EE9 C200 8FF1 E71E # Michael Bloom <michael.bloom@firstlook.org>
 80AC FB7D 7C13 5208 B305  417F 5813 259E 46C4 D8F1 # Mike Paterson <mike.paterson@firstlook.org>
-80D7 1598 7E4C 2A05 4143  BED3 0819 F0FF FD44 43DC # Miriam Pensack <miriam.pensack@theintercept.com>
 236A 29D7 9462 0975 553D  8FE9 5937 8251 1494 6872 # Moiz Syed <moiz.syed@theintercept.com>
 3C93 215B BBCB ADC5 17DC  0205 962F 5236 DCF2 F009 # Mona Panchal <mona.panchal@firstlook.org>
 2C59 D7AF B69B 8AC5 AD7D  F8AC BD5F 5925 40B4 4416 # Morgan Marquis-Boire <morgan@firstlook.org>
