@@ -19,6 +19,7 @@ A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna
 AF44 2189 C75A 8387 C7E8  0FA4 6A94 8D10 1CF5 BEBC # Breno Costa <breno.costa@theintercept.com>
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
+9225 01E3 EF90 3E13 F930  474F 1260 0A41 BD1E D573 # Brittany Westfall <brittany.westfall@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
 DF78 9B0B 8AFD 4D1F B6E2  50CB 100C 150C 2A69 3576 # Carl Licata <carl.licata@firstlook.org>
 5FDD 6DA6 10E5 FD4C A260  BA77 7D01 039C 2343 BDC9 # Caroline Smith <caroline.smith@firstlook.org>
@@ -110,6 +111,7 @@ CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheat
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
 155C F332 53F8 E412 8667  D33B 9EE9 C200 8FF1 E71E # Michael Bloom <michael.bloom@firstlook.org>
 80AC FB7D 7C13 5208 B305  417F 5813 259E 46C4 D8F1 # Mike Paterson <mike.paterson@firstlook.org>
+025E 8303 C4CC DD16 AB9E  77B8 D070 53A7 E3AF 48D4 # Miroslac Macala <miroslav.macala@theintercept.com>
 236A 29D7 9462 0975 553D  8FE9 5937 8251 1494 6872 # Moiz Syed <moiz.syed@theintercept.com>
 3C93 215B BBCB ADC5 17DC  0205 962F 5236 DCF2 F009 # Mona Panchal <mona.panchal@firstlook.org>
 2C59 D7AF B69B 8AC5 AD7D  F8AC BD5F 5925 40B4 4416 # Morgan Marquis-Boire <morgan@firstlook.org>
@@ -169,6 +171,7 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 8B10 69B5 EDF4 A680 598F  B1A8 D5A8 60C6 6F88 14B3 # Celeste Erlander <celeste.erlander@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
 F852 0DFF A52A 5E21 3117  B48F C699 BD09 A460 6D5A # Evan Murray <evan.murray@firstlook.org>
+6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 007E 7AB6 616F 7735 DA81  A0E1 839B DE52 1304 2066 # Mark Lerner <mark.lerner@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 77AF BB55 D47D 7248 6C77  30BF C7EE 723D 410D 56E8 # Samantha Friend <samantha.friend@firstlook.org>
