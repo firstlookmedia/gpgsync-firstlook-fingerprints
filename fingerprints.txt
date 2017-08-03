@@ -43,6 +43,7 @@ CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theint
 60E3 ED8F ADF7 F32E DB7F  CFB9 EF93 340E 12EF 5151 # Erin O'Rourke <erin.orourke@firstlook.org>
 6BB3 9C06 9B2F D37E 44FC  07F7 808B 3E47 3329 1018 # Erinn Clark <erinn.clark@firstlook.org>
 4716 E0C0 F3B0 785A 1DE0  A67F 2F1A 7F5A 496D 98C9 # Farihah Zamen <farihah@fieldofvision.org>
+9BE7 8F29 70D2 A215 9C34  B008 A2E6 CEC9 D3B8 665D # Fei Liu <fei.liu@firstlook.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
 C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marques@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
@@ -128,6 +129,7 @@ DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omid
 D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org>
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
+5ED8 358D 76B4 0FA7 E6AF  F78F 7FCC 6CFE CC0F 33A1 # Rashmee Kumar <rashmee.kumar@firstlook.org>
 8116 888D 8C37 230D 1212  68E2 415F 63C7 1968 D8F6 # Rebecca Workman <rebecca.workman@firstlook.org>
 4864 FDAF C1DB DC02 5B1E  1098 41BF 77A8 8E9D FB64 # Reyhan Harmanci <reyhan.harmanci@firstlook.org>
 F56F 1FAC 16EC F048 5621  F7B9 82EC 34AC A0C8 FBD6 # Richard Esposito <richard.esposito@theintercept.com>
@@ -155,6 +157,7 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
 17A1 02FE 365C 3A7F EF04  1A76 C903 D6C6 B8A5 E23A # Talya Cooper <talya.cooper@firstlook.org>
 7F9C A185 FC5D A4F4 89FC  12FF B697 5BD7 4266 2575 # Thiago Dezan <thiago.dezan@firstlook.com>
+BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crowley@theintercept.com>
 1962 BA86 D407 86C0 6B36  67EC 9143 7C3F FD3E E3E1 # Todd Fleisher <todd@firstlook.org>
 8B25 532F E134 62D9 4AF0  26A3 0F2C 120C 0A5D C5D4 # Todd Green <todd.green@firstlook.org>
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
