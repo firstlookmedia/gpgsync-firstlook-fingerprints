@@ -154,7 +154,6 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
 B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
 17A1 02FE 365C 3A7F EF04  1A76 C903 D6C6 B8A5 E23A # Talya Cooper <talya.cooper@firstlook.org>
-7F9C A185 FC5D A4F4 89FC  12FF B697 5BD7 4266 2575 # Thiago Dezan <thiago.dezan@firstlook.com>
 BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crowley@theintercept.com>
 2A33 7183 4D5E 5351 A8B9  0C89 B00A E32E C2F9 1AFF # Timothy Barnes <tim.barnes@firstlook.org>
 1962 BA86 D407 86C0 6B36  67EC 9143 7C3F FD3E E3E1 # Todd Fleisher <todd@firstlook.org>
@@ -177,7 +176,6 @@ F852 0DFF A52A 5E21 3117  B48F C699 BD09 A460 6D5A # Evan Murray <evan.murray@fi
 007E 7AB6 616F 7735 DA81  A0E1 839B DE52 1304 2066 # Mark Lerner <mark.lerner@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 77AF BB55 D47D 7248 6C77  30BF C7EE 723D 410D 56E8 # Samantha Friend <samantha.friend@firstlook.org>
-1FEA 2E8A 548B 2F13 61EA  93E2 3086 5695 9320 DE35 # Samantha Ong <samantha.ong@firstlook.org>
 9400 7213 5B92 7474 6774  ED55 AE57 51F3 8CFA 1EA3 # Sandhya Reddy <sandhya.reddy@firstlook.org>
 9B5C 4740 321B 78A2 E848  8811 AF1C 0611 92B3 9682 # Tori Eskue <tori.eskue@firstlook.org>
 
