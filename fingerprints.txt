@@ -66,6 +66,7 @@ A941 8881 2F15 4061 4150  CA96 C1C7 F85A F78F A952 # Jennifer Kerrigan <jennifer
 A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@firstlook.org>
 7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwarz@theintercept.com>
 3608 4B2E DB6C 9B76 9865  6D6A 92ED AB63 BA82 B164 # Jordan Hellman <jordan.hellman@firstlook.org>
+C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@firstlook.org>
 E371 5887 D561 F109 56D6  9D4A 43E3 727D A48C 358A # Jordan Smith <jordan.smith@theintercept.com>
 66AA 0E12 87B6 60A2 109D  E5DE 9297 05D3 ED78 3DA6 # Jorge Jackson <jorge.jackson@firstlook.org>
 F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@theintercept.com>
