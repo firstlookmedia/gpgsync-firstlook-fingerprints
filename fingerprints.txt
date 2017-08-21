@@ -150,6 +150,7 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
 76E8 943B 0075 2D42 0A37  B8C4 9DC6 21EC 7332 AE84 # Sonora Sneed <sonora.sneed@firstlook.org>
 54E1 6ECF F9FF 5A4A B52B  05E8 9811 B9CF B0D2 B7B3 # Soohee Cho <soohee.cho@theintercept.com>
+645A 90D2 BB4B 0E2A E4ED  BA89 B125 29DD BD50 F32D # Stephanie Chow <stephanie.chow@firstlook.org>
 467E 8232 16EB A486 853B  C470 C72D DF9B ECCF 1398 # Stephanie Harris <stephanie.harris@firstlook.org>
 8221 2518 21CC 1EB5 6930  DE93 C976 1933 DBEA AA25 # Steven Winiarz <steven@firstlook.org>
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
