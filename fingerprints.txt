@@ -171,8 +171,10 @@ FDA8 95B4 9999 0E89 F228  889B 92E6 FA38 F838 55B6 # Vivian Siu <vivian.siu@thei
 # Interns
 F02D 0199 EF8B A9FB C18A  6FC3 3280 34D0 893F E670 # Cameron Porette <cameron.porette@firstlook.org>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
+787C 9785 A52E 4E56 E6EE  4B23 BCC0 AF1F 9945 9CEE # Isabel Robertson <isabel.robertson@firstlook.org>
 6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 007E 7AB6 616F 7735 DA81  A0E1 839B DE52 1304 2066 # Mark Lerner <mark.lerner@firstlook.org>
+FE36 04C5 920F B427 BF04  EE71 7381 F4D5 6F50 BAF4 # Ruby Rae Drake <rubyrae.drake@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 
 9B5C 4740 321B 78A2 E848  8811 AF1C 0611 92B3 9682 # Tori Eskue <tori.eskue@firstlook.org>
