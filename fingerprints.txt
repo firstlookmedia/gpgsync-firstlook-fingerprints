@@ -1,5 +1,6 @@
 # First Look employees
 A201 F9EE 3AC5 DDE1 32B7  2D44 EABF 89F4 F1F0 A6B4 # Adam Pincus <adam.pincus@firstlook.org>
+10EF 5E0D CB62 ED5F 677D  7CB9 A655 203A 353D 2999 # Aida Chavez <aida.chavez@theintercept.com>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
 475E 9439 CD88 9D98 52A4  1054 BE99 BD1C A96F D159 # Alexandra Jiga <alexandra.jiga@firstlook.org>
