@@ -151,6 +151,7 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
 76E8 943B 0075 2D42 0A37  B8C4 9DC6 21EC 7332 AE84 # Sonora Sneed <sonora.sneed@firstlook.org>
 54E1 6ECF F9FF 5A4A B52B  05E8 9811 B9CF B0D2 B7B3 # Soohee Cho <soohee.cho@theintercept.com>
+5B6F A0CC 6BB8 A03C CC4C  6DE7 0C34 5404 FD46 C0AE # Stacey Politi <stacey.politi@firstlook.org>
 467E 8232 16EB A486 853B  C470 C72D DF9B ECCF 1398 # Stephanie Harris <stephanie.harris@firstlook.org>
 8221 2518 21CC 1EB5 6930  DE93 C976 1933 DBEA AA25 # Steven Winiarz <steven@firstlook.org>
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
@@ -170,7 +171,7 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 
 # Interns
 F02D 0199 EF8B A9FB C18A  6FC3 3280 34D0 893F E670 # Cameron Porette <cameron.porette@firstlook.org>
-47A7 DD82 BB2D 2335 C07D  CF7B 3CA4 25AB B75A F003 # Cédric von Niederhäusern <cedric.vonniederhausern@firstlook.org>
+47A7 DD82 BB2D 2335 C07D  CF7B 3CA4 25AB B75A F003 # Cédric von Niederhäusern <contact@c-v-n.ch>
 BF94 6CCF CD7D 9596 3E6D  96D5 22CA 46DE 56FC 664E # Danielle Zegelstein <dzegelstein@colgate.edu>
 7364 B8F2 44B2 FD18 B32F  8EFA 5A76 17D8 AF6A 469D # Dina Sayedahmed <dina.sayedahmed@firstlook.org>
 69B5 FB1B FDB2 E7FE E811  AAC0 9BCD 2A53 87F8 BCAC # Henriette Chacar <henriette.chacar@theintercept.com>
