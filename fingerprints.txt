@@ -49,6 +49,7 @@ C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marq
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
 1944 092F FF1D 5CE0 29EF  2209 CB1D AE1E 8B0E D710 # Helena Borges <helena.borges@firstlook.org>
+69B5 FB1B FDB2 E7FE E811  AAC0 9BCD 2A53 87F8 BCAC # Henriette Chacar <henriette.chacar@theintercept.com>
 BE6E 8F5A C6FB 74A4 D6DF  9AB3 ED20 F1F3 9FB2 9A61 # Henrik Moltke <moltke@theintercept.com>
 3B4B AF86 69C9 8612 C606  CBD0 B786 5754 0462 AD6F # J. Gabriel Boylan <gabriel.boylan@firstlook.org>
 F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # Cacie Prins <cacie.prins@firstlook.org>
@@ -98,6 +99,7 @@ A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@fi
 DDB3 7996 A11B CF83 F46F  4AB9 B8CB D02C D7D5 1E78 # Lynn Dombek <lynn.dombek@firstlook.org>
 19FD 7D40 28B8 49EF B1CF  FDBE 267F 488B 3CB9 C929 # Mahalia Cohen <mahalia.cohen@firstlook.org>
 3DAB FA5A 0F5D 3870 1EC4  6D40 4CC7 A7B8 ECA0 9442 # Man Bartlett <man.bartlett@firstlook.org>
+0C15 98A4 CB4E E371 08DA  22AB CDDC B840 4A3A 7BD7 # Marguerite Nutter <marguerite.nutter@firstlook.org>
 D301 003E DD1E 1BEA 6BE0  181B BB58 C7E5 F949 4209 # Margot Williams <margot.williams@theintercept.com>
 FB44 04B3 5358 1E12 4A56  B5FF 5929 F058 86A2 1F64 # Mariam Elba <mariam.elba@firstlook.org>
 95D6 89A9 9BE5 BB68 4F88  FA6F E5E4 0111 1BB1 61F6 # Maryam Saleh <maryam.saleh@theintercept.com>
