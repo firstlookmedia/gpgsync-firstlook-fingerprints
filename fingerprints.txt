@@ -22,6 +22,7 @@ D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollin
 9225 01E3 EF90 3E13 F930  474F 1260 0A41 BD1E D573 # Brittany Westfall <brittany.westfall@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
 DF78 9B0B 8AFD 4D1F B6E2  50CB 100C 150C 2A69 3576 # Carl Licata <carl.licata@firstlook.org>
+D3F6 3D39 3E38 C1FF 738D  5C75 51FE 6A35 BE9E 1C68 # Carla Camargo Fanha <carla.fanha@theintercept.com>
 5FDD 6DA6 10E5 FD4C A260  BA77 7D01 039C 2343 BDC9 # Caroline Smith <caroline.smith@firstlook.org>
 529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.lieberman@firstlook.org>
 B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.seo@firstlook.org>
