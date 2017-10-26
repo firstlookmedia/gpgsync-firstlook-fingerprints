@@ -144,6 +144,7 @@ A6AA 12AD 62A6 7479 A0BE  CBCE C005 0B2F 457C F2B2 # Ryan Chanatry <ryan.chanatr
 32AD 59B6 BF74 5491 1132  FC36 01B2 8C9B 6295 6686 # Ryan Grim <ryan.grim@theintercept.com>
 BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@firstlook.org>
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
+3D2C B91D 3F17 4C26 1F8C  7973 778C DF34 3EEB 440F # Sasha Shor <sasha.shor@firstlook.org>
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
 72D7 6D77 EFCF 7C5D C628  BAD2 5D7F 56C2 5811 B183 # Sam Biddle <sam.biddle@theintercept.com>
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
