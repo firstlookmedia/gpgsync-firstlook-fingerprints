@@ -112,6 +112,7 @@ C1E3 2541 269E 5051 CB9B  B977 0A18 90CC 617D DED5 # Maxwell Newlands <maxwell.n
 CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheatley@firstlook.org>
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
 155C F332 53F8 E412 8667  D33B 9EE9 C200 8FF1 E71E # Michael Bloom <michael.bloom@firstlook.org>
+A692 78B7 5BC6 D5D5 78C3  AFF1 E534 4BFF 8A81 A1CD # Michael Pico <michael.pico@firstlook.org>
 80AC FB7D 7C13 5208 B305  417F 5813 259E 46C4 D8F1 # Mike Paterson <mike.paterson@firstlook.org>
 025E 8303 C4CC DD16 AB9E  77B8 D070 53A7 E3AF 48D4 # Miroslac Macala <miroslav.macala@theintercept.com>
 236A 29D7 9462 0975 553D  8FE9 5937 8251 1494 6872 # Moiz Syed <moiz.syed@theintercept.com>
@@ -124,6 +125,8 @@ D022 DBCC D897 91EF 8C14  261D 40D7 A9A6 1BB8 E280 # Naya Samuel <naya.samuel@fi
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
 87B3 56FE CD45 1C09 647A  25FE D0A5 A92B C33D B701 # Nikhil Kamkolkar <nikhil.kamkolkar@firstlook.org>
+B07E 0155 4066 53BE 3519  855B F523 7644 2E31 BF81 # Paul Schneider <paul.schneider@firstlook.org>
+D000 91B5 1864 FFFD FCB3  27E7 3487 3341 DE61 1A63 # Peter Clarke <peter.clarke@firstlook.org>
 0C49 0F9D 179E 263F 9FFE  5080 2198 F5B7 D4E5 391A # Peter Maass <petermaass@theintercept.com>
 CD84 F3D1 A7C1 C7F2 AA6E  A60C D139 D3E6 33F2 7C98 # Phil Delbourgo <phil.delbourgo@firstlook.org>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
