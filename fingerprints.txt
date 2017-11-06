@@ -36,7 +36,6 @@ CC23 B6AE D956 A572 4B81  F476 4E1C 9655 0DB0 0F95 # Cora Currier <cora.currier@
 A5A3 68F4 DDEE E4D9 CB77  BE81 2B27 E8F5 E9E1 EF41 # Dan Shearer <dan.shearer@firstlook.org>
 58D0 C5E1 088B E33C A7C1  F0DF 4A3E D57B 4B87 886B # David Bralow <david.bralow@theintercept.com>
 D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.barreda@firstlook.org>
-F5FF 97E5 4FC0 452B FB22  A423 5320 A817 EEBA E631 # Dina Chang <dina.chang@firstlook.org>
 296D 4CBC CBFC 54E3 C5C3  D8C3 C8C3 A735 A3A5 C023 # Eleri Harris <eleri.harris@firstlook.org>
 6D92 ECEF 45F2 9E57 CD3C  7318 C792 6BA2 F352 8784 # Elisa Cho <elisa.cho@firstlook.org>
 DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@firstlook.org>
@@ -77,7 +76,6 @@ F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@
 37C1 7E38 0549 E939 A1E5  470E 5770 0524 26A1 261F # Justin Nesci <Justin.Nesci@firstlook.org>
 8CB7 D747 11B6 651D 93ED  97B0 8CE9 E074 0091 9D30 # Kate Bolger <katebolgerlsks@gmail.com>
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
-1056 28EC DC06 4CE1 DAD4  4AC3 AE77 6C28 60DA 73D9 # Kara Latta <kara@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
 B8D1 55C6 E719 F636 9124  E24A FEF0 1CD7 549B BAAA # khadija abuyousif <khadija.abuyousif@firstlook.org>
