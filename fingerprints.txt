@@ -162,7 +162,6 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
 17A1 02FE 365C 3A7F EF04  1A76 C903 D6C6 B8A5 E23A # Talya Cooper <talya.cooper@firstlook.org>
 BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crowley@theintercept.com>
-2A33 7183 4D5E 5351 A8B9  0C89 B00A E32E C2F9 1AFF # Timothy Barnes <tim.barnes@firstlook.org>
 1962 BA86 D407 86C0 6B36  67EC 9143 7C3F FD3E E3E1 # Todd Fleisher <todd@firstlook.org>
 8B25 532F E134 62D9 4AF0  26A3 0F2C 120C 0A5D C5D4 # Todd Green <todd.green@firstlook.org>
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
