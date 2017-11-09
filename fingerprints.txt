@@ -54,6 +54,7 @@ BE6E 8F5A C6FB 74A4 D6DF  9AB3 ED20 F1F3 9FB2 9A61 # Henrik Moltke <moltke@thein
 F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # Cacie Prins <cacie.prins@firstlook.org>
 EB7C 1E42 D49D A953 FBF7  DF3C FF7A B2FA B291 70B8 # Jack D'Isidoro <jack.disidoro@firstlook.org>
 3A5B 1ADD DFDE 3DF1 EB1F  3086 D17B F333 0BB8 7160 # Jamaal Glenn <jamaal.glenn@firstlook.org>
+A296 30BC 372A 54F2 E293  658A BCA3 0AAA 31D6 8C35 # James Risen <jim.risen@firstlook.org>
 E887 6FF8 7412 2F8C B9C5  CC80 787E 9C3F C860 E72A # Jason Fisher <jason.fisher@firstlook.org>
 A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.kedas@firstlook.org>
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
@@ -61,7 +62,7 @@ B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconne
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
 5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
-A296 30BC 372A 54F2 E293  658A BCA3 0AAA 31D6 8C35 # James Risen <jim.risen@firstlook.org>
+961C F57E 0626 512C 7B5B  D5E4 1C50 3D8B FECF FD31 # Jihan Bassett <jihan.robinson@firstlook.org>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
 A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@firstlook.org>
 7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwarz@theintercept.com>
