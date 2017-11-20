@@ -167,7 +167,7 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 EBF6 ABA9 310F A50C AF29  B4C2 959A CF3C 1859 EBC9 # Amanda Guimarães <amanda.guimaraes@theintercept.com>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna.cardoso@theintercept.com>
-D3F6 3D39 3E38 C1FF 738D  5C75 51FE 6A35 BE9E 1C68 # Carla Camargo Fanha <carla.fanha@theintercept.com>
+6254 1A0E AB5D 4138 E91F  E1FC AF41 AD64 9413 62BF # Carla Camargo Fanha <carla.fanha@theintercept.com>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
 F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com>
 CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theintercept.com>
