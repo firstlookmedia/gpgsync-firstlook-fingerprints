@@ -185,6 +185,7 @@ EAD0 9929 840B 99BC 405F  20DB 74AA 545E 7A51 2689 # First Look Media Security <
 7BB5 8D35 5BC7 852C 7E49  2858 B5CF CFE1 86AF CDFB # Sigma Omicron Authority
 F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
 91C0 C982 A41F 8D39 3953  1A71 FAB7 37F9 C5C1 CA80 # Warrant Canary Signing Key <canary@firstlook.org>
+665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
 F02D 0199 EF8B A9FB C18A  6FC3 3280 34D0 893F E670 # Cameron Porette <cameron.porette@firstlook.org>
