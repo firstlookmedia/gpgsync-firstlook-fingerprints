@@ -123,6 +123,7 @@ D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstl
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
 5ED8 358D 76B4 0FA7 E6AF  F78F 7FCC 6CFE CC0F 33A1 # Rashmee Kumar <rashmee.kumar@firstlook.org>
+6EFC 317D 1B6A 7436 B5E8  35D3 7BFF D6EC 5CC1 B4B7 # Ray Cuadrado <ray.cuadrado@firstlook.org>
 8116 888D 8C37 230D 1212  68E2 415F 63C7 1968 D8F6 # Rebecca Workman <rebecca.workman@firstlook.org>
 4864 FDAF C1DB DC02 5B1E  1098 41BF 77A8 8E9D FB64 # Reyhan Harmanci <reyhan.harmanci@firstlook.org>
 F56F 1FAC 16EC F048 5621  F7B9 82EC 34AC A0C8 FBD6 # Richard Esposito <richard.esposito@theintercept.com>
