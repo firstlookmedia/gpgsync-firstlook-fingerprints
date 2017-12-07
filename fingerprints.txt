@@ -105,7 +105,6 @@ A692 78B7 5BC6 D5D5 78C3  AFF1 E534 4BFF 8A81 A1CD # Michael Pico <michael.pico@
 025E 8303 C4CC DD16 AB9E  77B8 D070 53A7 E3AF 48D4 # Miroslac Macala <miroslav.macala@theintercept.com>
 236A 29D7 9462 0975 553D  8FE9 5937 8251 1494 6872 # Moiz Syed <moiz.syed@theintercept.com>
 3C93 215B BBCB ADC5 17DC  0205 962F 5236 DCF2 F009 # Mona Panchal <mona.panchal@firstlook.org>
-2C59 D7AF B69B 8AC5 AD7D  F8AC BD5F 5925 40B4 4416 # Morgan Marquis-Boire <morgan@firstlook.org>
 8D10 DC92 236F 5FE9 367D  0CEC 3EA8 914C 6790 EAF1 # Murtaza Hussain <murtaza.hussain@theintercept.com>
 17C5 6313 5445 E7E5 9A08  16A0 4363 0F7E 2BB9 72D1 # Naomi Klein <naomiaklein@gmail.com>
 9194 941D E02C 51DE D5AC  5DDD 2CDD 6D48 4226 9085 # Nat Welch <nat.welch@firstlook.org>
