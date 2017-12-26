@@ -187,12 +187,9 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
-F02D 0199 EF8B A9FB C18A  6FC3 3280 34D0 893F E670 # Cameron Porette <cameron.porette@firstlook.org>
 47A7 DD82 BB2D 2335 C07D  CF7B 3CA4 25AB B75A F003 # Cédric von Niederhäusern <contact@c-v-n.ch>
 7364 B8F2 44B2 FD18 B32F  8EFA 5A76 17D8 AF6A 469D # Dina Sayedahmed <dina.sayedahmed@firstlook.org>
-69B5 FB1B FDB2 E7FE E811  AAC0 9BCD 2A53 87F8 BCAC # Henriette Chacar <henriette.chacar@theintercept.com>
 787C 9785 A52E 4E56 E6EE  4B23 BCC0 AF1F 9945 9CEE # Isabel Robertson <isabel.robertson@firstlook.org>
 03B9 2A14 24B3 7B5E D053  FC75 687A 33BB 43D4 8746 # Kris LaRosa <kris.larosa@firstlook.org>
-FE36 04C5 920F B427 BF04  EE71 7381 F4D5 6F50 BAF4 # Ruby Rae Drake <rubyrae.drake@firstlook.org>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 D4BA 1715 B5B6 5FDE D245  744A ECDB 67D1 A4FC 9B61 # Virginia Lozano <virginia.lozano@firstlook.org>
