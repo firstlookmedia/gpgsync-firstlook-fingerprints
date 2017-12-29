@@ -62,7 +62,6 @@ C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@
 F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@theintercept.com>
 4027 179A 1284 EAF9 08A1  453B 9111 7B2B 9FBB 5147 # Joshua Thayer <jthayer@freedom.press>
 0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
-37C1 7E38 0549 E939 A1E5  470E 5770 0524 26A1 261F # Justin Nesci <Justin.Nesci@firstlook.org>
 8CB7 D747 11B6 651D 93ED  97B0 8CE9 E074 0091 9D30 # Kate Bolger <katebolgerlsks@gmail.com>
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
