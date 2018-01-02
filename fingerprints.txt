@@ -178,7 +178,10 @@ F3D8 7485 5DE6 B306 8A1B  F6F8 01AE 6C1E A1E0 278A # Ruben Berta <ruben.berta@fi
 
 # Organization keys
 13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
+
 ACE6 7D57 C8CB E70B 7EFF  EDEB 3908 CEBD 99A9 68DE # First Look Media IT <nyctech@firstlook.org>
+6AF2 009A 5BAA D21A 8AC4  4B5B AAE9 6894 D6A8 AEF8 # First Look Media IT <it@firstlook.media>
+
 EAD0 9929 840B 99BC 405F  20DB 74AA 545E 7A51 2689 # First Look Media Security <security@firstlook.org>
 7BB5 8D35 5BC7 852C 7E49  2858 B5CF CFE1 86AF CDFB # Sigma Omicron Authority
 F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
