@@ -69,7 +69,6 @@ F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
 B8D1 55C6 E719 F636 9124  E24A FEF0 1CD7 549B BAAA # khadija abuyousif <khadija.abuyousif@firstlook.org>
 1E80 B8C5 0FFA CD75 580A  9EAA A3D9 1720 3E50 9809 # Larry Ho <larry@firstlook.org>
-0524 64E3 A22F D17A 5226  A2A8 87CA 2BF1 F907 36BD # Laura Argintar <laura.argintar@firstlook.org>
 3D5B 45C3 C5A2 4713 2786  7F95 ABDD 170C 726E 705C # Laura Flynn <laura.flynn@firstlook.org>
 3217 C509 292F C670 76EC  D75C 7614 269B DDF7 3B36 # Laura Poitras <laura.poitras@theintercept.com>
 CE37 E44E 7836 7B8E 8844  5E5C DC13 A9E4 2AA7 0A62 # Lauren Feeney <lauren.feeney@theintercept.com>
