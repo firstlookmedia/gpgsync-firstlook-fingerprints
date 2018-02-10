@@ -33,7 +33,7 @@ D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.bar
 6D92 ECEF 45F2 9E57 CD3C  7318 C792 6BA2 F352 8784 # Elisa Cho <elisa.cho@firstlook.org>
 DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@firstlook.org>
 6BB3 9C06 9B2F D37E 44FC  07F7 808B 3E47 3329 1018 # Erinn Clark <erinn.clark@firstlook.org>
-9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
+47EC 1EB7 174E 904C 359A  F198 F767 4581 CB4A 56C3 # Evan Riggs <evan.riggs@firstlook.org>
 4716 E0C0 F3B0 785A 1DE0  A67F 2F1A 7F5A 496D 98C9 # Farihah Zamen <farihah@fieldofvision.org>
 9BE7 8F29 70D2 A215 9C34  B008 A2E6 CEC9 D3B8 665D # Fei Liu <fei.liu@firstlook.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
@@ -177,17 +177,15 @@ F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moren
 CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theintercept.com>
 C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marques@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
-1944 092F FF1D 5CE0 29EF  2209 CB1D AE1E 8B0E D710 # Helena Borges <helena.borges@firstlook.org>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
+0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
 F3D8 7485 5DE6 B306 8A1B  F6F8 01AE 6C1E A1E0 278A # Ruben Berta <ruben.berta@firstlook.org>
 
 # Organization keys
 13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
-
 ACE6 7D57 C8CB E70B 7EFF  EDEB 3908 CEBD 99A9 68DE # First Look Media IT <nyctech@firstlook.org>
 6AF2 009A 5BAA D21A 8AC4  4B5B AAE9 6894 D6A8 AEF8 # First Look Media IT <it@firstlook.media>
-
 EAD0 9929 840B 99BC 405F  20DB 74AA 545E 7A51 2689 # First Look Media Security <security@firstlook.org>
 7BB5 8D35 5BC7 852C 7E49  2858 B5CF CFE1 86AF CDFB # Sigma Omicron Authority
 F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
@@ -197,7 +195,15 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 # Interns
 47A7 DD82 BB2D 2335 C07D  CF7B 3CA4 25AB B75A F003 # Cédric von Niederhäusern <contact@c-v-n.ch>
 7364 B8F2 44B2 FD18 B32F  8EFA 5A76 17D8 AF6A 469D # Dina Sayedahmed <dina.sayedahmed@firstlook.org>
+9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
 787C 9785 A52E 4E56 E6EE  4B23 BCC0 AF1F 9945 9CEE # Isabel Robertson <isabel.robertson@firstlook.org>
+EB4F 43DA 8BC8 2D8E D7BC  BC28 13E4 D97E FADB 7B29 # Jessica Messina <jessica.messina@firstlook.org>
+7807 3D6D F411 A153 5AC4  C8EA CF70 07F6 7C66 1587 # Jonny Kuzmic <jonny.kuzmic@firstlook.media>
+0A10 1884 BEE6 08C8 5B51  2164 2A73 85F8 7DE0 60F7 # Jordan Schopick <jordan.schopick@firstlook.media>
+ACC5 0A0F 4968 830D 9516  494C 7D76 F413 0DCC E1AF # Jose Olivares <jose.olivares@theintercept.com>
 03B9 2A14 24B3 7B5E D053  FC75 687A 33BB 43D4 8746 # Kris LaRosa <kris.larosa@firstlook.org>
+B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.legro@topic.com>
+5ADB 88EC EE29 7CDE 6075  3630 DF46 E636 9699 8520 # Olivia Stein <olivia.stein@firstlook.media>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
+70DE AC20 F9DE C991 2A76  6E02 BA75 6DA3 486A 53AC # Tiffanie Snyder <tiffanie.snyder@firstlook.media>
 D4BA 1715 B5B6 5FDE D245  744A ECDB 67D1 A4FC 9B61 # Virginia Lozano <virginia.lozano@firstlook.org>
