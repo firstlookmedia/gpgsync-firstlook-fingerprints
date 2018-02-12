@@ -104,6 +104,7 @@ C1E3 2541 269E 5051 CB9B  B977 0A18 90CC 617D DED5 # Maxwell Newlands <maxwell.n
 CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheatley@firstlook.org>
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
 155C F332 53F8 E412 8667  D33B 9EE9 C200 8FF1 E71E # Michael Bloom <michael.bloom@firstlook.org>
+A001 C3A6 AA3E 87F4 967D  61FA D044 A42D 8E71 C28E # Michael Whitney <michael.whitney@theintercept.com>
 80AC FB7D 7C13 5208 B305  417F 5813 259E 46C4 D8F1 # Mike Paterson <mike.paterson@firstlook.org>
 025E 8303 C4CC DD16 AB9E  77B8 D070 53A7 E3AF 48D4 # Miroslac Macala <miroslav.macala@theintercept.com>
 236A 29D7 9462 0975 553D  8FE9 5937 8251 1494 6872 # Moiz Syed <moiz.syed@theintercept.com>
