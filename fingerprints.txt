@@ -196,7 +196,6 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 47A7 DD82 BB2D 2335 C07D  CF7B 3CA4 25AB B75A F003 # Cédric von Niederhäusern <contact@c-v-n.ch>
 7364 B8F2 44B2 FD18 B32F  8EFA 5A76 17D8 AF6A 469D # Dina Sayedahmed <dina.sayedahmed@firstlook.org>
 9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
-787C 9785 A52E 4E56 E6EE  4B23 BCC0 AF1F 9945 9CEE # Isabel Robertson <isabel.robertson@firstlook.org>
 EB4F 43DA 8BC8 2D8E D7BC  BC28 13E4 D97E FADB 7B29 # Jessica Messina <jessica.messina@firstlook.org>
 7807 3D6D F411 A153 5AC4  C8EA CF70 07F6 7C66 1587 # Jonny Kuzmic <jonny.kuzmic@firstlook.media>
 0A10 1884 BEE6 08C8 5B51  2164 2A73 85F8 7DE0 60F7 # Jordan Schopick <jordan.schopick@firstlook.media>
