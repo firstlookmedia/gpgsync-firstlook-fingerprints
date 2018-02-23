@@ -188,6 +188,7 @@ F3D8 7485 5DE6 B306 8A1B  F6F8 01AE 6C1E A1E0 278A # Ruben Berta <ruben.berta@fi
 ACE6 7D57 C8CB E70B 7EFF  EDEB 3908 CEBD 99A9 68DE # First Look Media IT <nyctech@firstlook.org>
 6AF2 009A 5BAA D21A 8AC4  4B5B AAE9 6894 D6A8 AEF8 # First Look Media IT <it@firstlook.media>
 EAD0 9929 840B 99BC 405F  20DB 74AA 545E 7A51 2689 # First Look Media Security <security@firstlook.org>
+4AB4 2B90 7904 732A DE01  7183 4079 D2DA 8640 4E9D # Jeremy Office <jeremy.office@theintercept.com>
 7BB5 8D35 5BC7 852C 7E49  2858 B5CF CFE1 86AF CDFB # Sigma Omicron Authority
 F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.org>
 91C0 C982 A41F 8D39 3953  1A71 FAB7 37F9 C5C1 CA80 # Warrant Canary Signing Key <canary@firstlook.org>
