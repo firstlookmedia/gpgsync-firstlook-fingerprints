@@ -176,6 +176,7 @@ C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marq
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
 F3D8 7485 5DE6 B306 8A1B  F6F8 01AE 6C1E A1E0 278A # Ruben Berta <ruben.berta@firstlook.org>
+0329 AC28 4D83 5804 73DB  F074 01C9 AE8F DD26 12C3 # Victor Pougy <victor.pougy@theintercept.com>
 
 # Organization keys
 13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
