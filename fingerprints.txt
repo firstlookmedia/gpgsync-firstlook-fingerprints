@@ -158,6 +158,7 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
 30E3 489F 7EC9 555E F0A2  5A95 6897 0BE6 DCB3 09F0 # Will Fitzpatrick <will@firstlook.org>
 7D10 41CD 3553 D3C1 61E3  652D 6A85 06B7 EE57 4162 # Winston Varona <winston.varona@firstlook.org>
+0531 BA91 49F0 B7F8 67DC  D330 32E1 468F D6AF AB86 # Zach Young <zach.young@theintercept.com>
 8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
 #TIB
