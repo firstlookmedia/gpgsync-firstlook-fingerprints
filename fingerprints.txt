@@ -82,7 +82,6 @@ A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@fi
 46D3 3FA2 833A B09D 1BF6  EC51 656C F00A 2551 C040 # Lisa Leingang <lisa.leingang@firstlook.org>
 0070 635E F851 83F6 9831  99CC 7BC6 7D29 ED42 B4F7 # Lisa Minnetto <lisa.minnetto@firstlook.org>
 1902 64C1 66FA 8844 2A5E  180D 586F 4FF5 A8FE C488 # LJ Ruell <lj.ruell@theintercept.com>
-5ED5 7BBB 297F E146 CEBB  BBE6 5BF2 D1FC 2D98 AEF6 # Lydia Cheuk <lydia.cheuk@firstlook.org>
 DDB3 7996 A11B CF83 F46F  4AB9 B8CB D02C D7D5 1E78 # Lynn Dombek <lynn.dombek@firstlook.org>
 E53B 1B71 2A98 B8B3 F827  5910 1EA6 8145 03C0 410B # Olivia Meng <olivia.meng@firstlook.org>
 19FD 7D40 28B8 49EF B1CF  FDBE 267F 488B 3CB9 C929 # Mahalia Cohen <mahalia.cohen@firstlook.org>
