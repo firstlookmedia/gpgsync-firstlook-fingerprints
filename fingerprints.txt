@@ -33,7 +33,6 @@ D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.bar
 6D92 ECEF 45F2 9E57 CD3C  7318 C792 6BA2 F352 8784 # Elisa Cho <elisa.cho@firstlook.org>
 DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@firstlook.org>
 6BB3 9C06 9B2F D37E 44FC  07F7 808B 3E47 3329 1018 # Erinn Clark <erinn.clark@firstlook.org>
-47EC 1EB7 174E 904C 359A  F198 F767 4581 CB4A 56C3 # Evan Riggs <evan.riggs@firstlook.org>
 4716 E0C0 F3B0 785A 1DE0  A67F 2F1A 7F5A 496D 98C9 # Farihah Zamen <farihah@fieldofvision.org>
 9BE7 8F29 70D2 A215 9C34  B008 A2E6 CEC9 D3B8 665D # Fei Liu <fei.liu@firstlook.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
