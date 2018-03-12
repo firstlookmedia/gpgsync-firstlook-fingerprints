@@ -113,6 +113,7 @@ D000 91B5 1864 FFFD FCB3  27E7 3487 3341 DE61 1A63 # Peter Clarke <peter.clarke@
 0C49 0F9D 179E 263F 9FFE  5080 2198 F5B7 D4E5 391A # Peter Maass <petermaass@theintercept.com>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
 DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omidyar@firstlook.org>
+F5CA 77A0 2223 8C9D 435D  1AC5 C3D5 F86F C8AA 09DA # Prince Quarcoo <prince.quarcoo@firstlook.media>
 D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org>
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
