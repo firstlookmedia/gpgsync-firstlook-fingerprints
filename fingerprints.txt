@@ -57,7 +57,6 @@ A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomaso
 7807 3D6D F411 A153 5AC4  C8EA CF70 07F6 7C66 1587 # Jonny Kuzmic <jonny.kuzmic@firstlook.media>
 3608 4B2E DB6C 9B76 9865  6D6A 92ED AB63 BA82 B164 # Jordan Hellman <jordan.hellman@firstlook.org>
 C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@firstlook.org>
-0A10 1884 BEE6 08C8 5B51  2164 2A73 85F8 7DE0 60F7 # Jordan Schopick <jordan.schopick@firstlook.media>
 595A E3C5 7B71 55DF DBC0  5D7E 9A1F 69BA 243F 9AF7 # Jordan Smith <jordan.smith@theintercept.com>
 66AA 0E12 87B6 60A2 109D  E5DE 9297 05D3 ED78 3DA6 # Jorge Jackson <jorge.jackson@firstlook.org>
 F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@theintercept.com>
@@ -130,6 +129,7 @@ A6AA 12AD 62A6 7479 A0BE  CBCE C005 0B2F 457C F2B2 # Ryan Chanatry <ryan.chanatr
 32AD 59B6 BF74 5491 1132  FC36 01B2 8C9B 6295 6686 # Ryan Grim <ryan.grim@theintercept.com>
 BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@firstlook.org>
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
+A3D8 9684 F180 BF47 5702  E4B8 3FE7 9280 7092 17FF # Sairah Siddique <sairah.siddique@theintercept.com>
 3D2C B91D 3F17 4C26 1F8C  7973 778C DF34 3EEB 440F # Sasha Shor <sasha.shor@firstlook.org>
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
 72D7 6D77 EFCF 7C5D C628  BAD2 5D7F 56C2 5811 B183 # Sam Biddle <sam.biddle@theintercept.com>
