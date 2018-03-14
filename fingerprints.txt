@@ -178,6 +178,7 @@ F3D8 7485 5DE6 B306 8A1B  F6F8 01AE 6C1E A1E0 278A # Ruben Berta <ruben.berta@fi
 
 # Organization keys
 13E8 D48A 00C6 3F61 4F31  A50D 7696 AA56 AD44 1224 # Field of Vision <submissions@fieldofvision.org>
+91F8 22F4 B2EC F2F7 0B8E  2AB1 A317 AF8E 05F4 1A0A # Field of Vision | Staff <fovstaff@fieldofvision.org>
 6AF2 009A 5BAA D21A 8AC4  4B5B AAE9 6894 D6A8 AEF8 # First Look Media IT <it@firstlook.media>
 EAD0 9929 840B 99BC 405F  20DB 74AA 545E 7A51 2689 # First Look Media Security <security@firstlook.org>
 4AB4 2B90 7904 732A DE01  7183 4079 D2DA 8640 4E9D # Jeremy Office <jeremy.office@theintercept.com>
