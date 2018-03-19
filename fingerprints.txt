@@ -202,4 +202,3 @@ B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.le
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 B226 AC1D 30C0 609E D6AE  76CA 18AB 3DD8 1EC1 A171 # Sophia Shi <sophia.shi@firstlook.media>
 70DE AC20 F9DE C991 2A76  6E02 BA75 6DA3 486A 53AC # Tiffanie Snyder <tiffanie.snyder@firstlook.media>
-D4BA 1715 B5B6 5FDE D245  744A ECDB 67D1 A4FC 9B61 # Virginia Lozano <virginia.lozano@firstlook.org>
