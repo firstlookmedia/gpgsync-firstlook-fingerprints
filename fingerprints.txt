@@ -115,6 +115,7 @@ DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omid
 F5CA 77A0 2223 8C9D 435D  1AC5 C3D5 F86F C8AA 09DA # Prince Quarcoo <prince.quarcoo@firstlook.media>
 D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org>
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
+B86F 545D 5098 E7A6 4D61  FFBB 55CA E3B4 78A9 FC8A # Rachel Traub <rachel.traub@topic.com>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
 5ED8 358D 76B4 0FA7 E6AF  F78F 7FCC 6CFE CC0F 33A1 # Rashmee Kumar <rashmee.kumar@firstlook.org>
 6EFC 317D 1B6A 7436 B5E8  35D3 7BFF D6EC 5CC1 B4B7 # Ray Cuadrado <ray.cuadrado@firstlook.org>
