@@ -39,6 +39,7 @@ DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@fi
 9BE7 8F29 70D2 A215 9C34  B008 A2E6 CEC9 D3B8 665D # Fei Liu <fei.liu@firstlook.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
+5862 FE16 D340 2E05 EB1E  C36D 9956 A842 8318 3C71 # Hector Rene <Hector.Rene@topic.com>
 BE6E 8F5A C6FB 74A4 D6DF  9AB3 ED20 F1F3 9FB2 9A61 # Henrik Moltke <moltke@theintercept.com>
 3B4B AF86 69C9 8612 C606  CBD0 B786 5754 0462 AD6F # J. Gabriel Boylan <gabriel.boylan@firstlook.org>
 F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # Cacie Prins <cacie.prins@firstlook.org>
@@ -48,6 +49,7 @@ E887 6FF8 7412 2F8C B9C5  CC80 787E 9C3F C860 E72A # Jason Fisher <jason.fisher@
 A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.kedas@firstlook.org>
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
 62BF F048 0077 1341 FEB3  B75C 76DC B628 6C3A 87CA # Jeff Seelbach <jeffrey.seelbach@firstlook.org>
+86BB 0393 B600 7590 D44C  F4BB F58D 0439 CAE2 404D # Jen Tse <jen.tse@theintercept.com>
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
 5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
