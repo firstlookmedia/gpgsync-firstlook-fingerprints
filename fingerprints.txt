@@ -174,7 +174,6 @@ A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
 94DF 743E CF5C D749 503C  04F5 A2BE D209 7C56 9636 # Daniel Sant'Anna <daniel.santanna@theintercept.com>
 F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com>
-CAA2 ACC8 183F 2812 6574  0182 9AA7 B259 059E D289 # Erick Dau <erick.dau@theintercept.com>
 C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marques@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
@@ -200,7 +199,6 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 EB4F 43DA 8BC8 2D8E D7BC  BC28 13E4 D97E FADB 7B29 # Jessica Messina <jessica.messina@firstlook.org>
 7807 3D6D F411 A153 5AC4  C8EA CF70 07F6 7C66 1587 # Jonny Kuzmic <jonny.kuzmic@firstlook.media>
 0A10 1884 BEE6 08C8 5B51  2164 2A73 85F8 7DE0 60F7 # Jordan Schopick <jordan.schopick@firstlook.media>
-ACC5 0A0F 4968 830D 9516  494C 7D76 F413 0DCC E1AF # Jose Olivares <jose.olivares@theintercept.com>
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
 B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.legro@topic.com>
 5ADB 88EC EE29 7CDE 6075  3630 DF46 E636 9699 8520 # Olivia Stein <olivia.stein@firstlook.media>
