@@ -12,6 +12,7 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
 57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
 2B92 8A93 90C6 D964 AB4B  C3E8 64E8 8811 33B8 9221 # Anna Holmes <anna.holmes@firstlook.org>
+8902 1C58 D793 AA9E 91F5  9311 C99A 6A91 E281 9DBA # Ariel Zambelich <ariel.zambelich@theintercept.com>
 
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 9A81 79C1 B495 A91A 7DC4  DEFA 374B 9D73 5208 FD03 # Brenda Coughlin <brendacoughlin@mac.com>
@@ -111,6 +112,7 @@ FB44 04B3 5358 1E12 4A56  B5FF 5929 F058 86A2 1F64 # Mariam Elba <mariam.elba@fi
 F1D3 A76E 5BBE 77F2 8430  EF8B 950A 7D6C FB5A F0A9 # Matthew Cole <matthew.cole@theintercept.com>
 CF00 30F4 1966 B21B 6A8C  D292 4D16 9845 4F69 A0A8 # Megan Wheatley <megan.wheatley@firstlook.org>
 0467 8A5E 02B2 E675 62EA  098A DBAE 3703 12CD 230E # Meghna Rao <meghna.rao@topic.com>
+9404 40C4 66BD 6002 5F0F  7CE7 6F51 28DA 00EA 4D10 # Mehdi Hasan <mehdi.hasan@theintercept.com>
 927F 419D 7EC8 2C2F 149C  1BD1 403C 2657 CD99 4F73 # Micah Lee <micah.lee@theintercept.com>
 155C F332 53F8 E412 8667  D33B 9EE9 C200 8FF1 E71E # Michael Bloom <michael.bloom@firstlook.org>
 A001 C3A6 AA3E 87F4 967D  61FA D044 A42D 8E71 C28E # Michael Whitney <michael.whitney@theintercept.com>
@@ -187,19 +189,15 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
 #TIB
-EBF6 ABA9 310F A50C AF29  B4C2 959A CF3C 1859 EBC9 # Amanda Guimarães <amanda.guimaraes@theintercept.com>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
-A2E1 D9AD CCDB C610 D9F5  946C AE44 8F97 DB63 F948 # Anna Carolina Cardoso <anna.cardoso@theintercept.com>
-6254 1A0E AB5D 4138 E91F  E1FC AF41 AD64 9413 62BF # Carla Camargo Fanha <carla.fanha@theintercept.com>
+E1DB 58AD 1614 EC40 24A4  B8B3 60B5 4E3F 39AD 0F57 # Bruna de Lara <bruna.delara@theintercept.com>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
 94DF 743E CF5C D749 503C  04F5 A2BE D209 7C56 9636 # Daniel Sant'Anna <daniel.santanna@theintercept.com>
 F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com>
-C782 08F7 2B49 3469 918A  E443 417C 2844 F5B6 C61A # George Marques <george.marques@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
-F3D8 7485 5DE6 B306 8A1B  F6F8 01AE 6C1E A1E0 278A # Ruben Berta <ruben.berta@firstlook.org>
 0329 AC28 4D83 5804 73DB  F074 01C9 AE8F DD26 12C3 # Victor Pougy <victor.pougy@theintercept.com>
 
 # Organization keys
@@ -220,7 +218,7 @@ EB4F 43DA 8BC8 2D8E D7BC  BC28 13E4 D97E FADB 7B29 # Jessica Messina <jessica.me
 0A10 1884 BEE6 08C8 5B51  2164 2A73 85F8 7DE0 60F7 # Jordan Schopick <jordan.schopick@firstlook.media>
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
 B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.legro@topic.com>
-5ADB 88EC EE29 7CDE 6075  3630 DF46 E636 9699 8520 # Olivia Stein <olivia.stein@firstlook.media>
+5ADB 88EC EE29 7CDE 6075  3630 DF46 E636 9699 8520 # Ovi Stein <ovi.stein@topic.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 B226 AC1D 30C0 609E D6AE  76CA 18AB 3DD8 1EC1 A171 # Sophia Shi <sophia.shi@firstlook.media>
 70DE AC20 F9DE C991 2A76  6E02 BA75 6DA3 486A 53AC # Tiffanie Snyder <tiffanie.snyder@firstlook.media>
