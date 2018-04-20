@@ -12,37 +12,45 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
 57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
 2B92 8A93 90C6 D964 AB4B  C3E8 64E8 8811 33B8 9221 # Anna Holmes <anna.holmes@firstlook.org>
+
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 9A81 79C1 B495 A91A 7DC4  DEFA 374B 9D73 5208 FD03 # Brenda Coughlin <brendacoughlin@mac.com>
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
 9225 01E3 EF90 3E13 F930  474F 1260 0A41 BD1E D573 # Brittany Westfall <brittany.westfall@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
+
 DF78 9B0B 8AFD 4D1F B6E2  50CB 100C 150C 2A69 3576 # Carl Licata <carl.licata@firstlook.org>
 5FDD 6DA6 10E5 FD4C A260  BA77 7D01 039C 2343 BDC9 # Caroline Smith <caroline.smith@firstlook.org>
 529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.lieberman@firstlook.org>
+F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # Cacie Prins <cacie.prins@firstlook.org>
 B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.seo@firstlook.org>
 5D06 1CA2 F440 AAB8 99CE  F615 DB69 2347 930F C367 # Charlotte Cook <charlotte.cook@theintercept.com>
 D228 CF93 4DB8 CAB3 38F9  B0D2 F237 F239 219A 5AB1 # Charlotte Greensit <charlotte.greensit@theintercept.com>
 CC23 B6AE D956 A572 4B81  F476 4E1C 9655 0DB0 0F95 # Cora Currier <cora.currier@theintercept.com>
+
 0C65 D284 BC3D 1214 131F  4EE1 C53B 8DED 889B 64D3 # Daniele Owens <daniele.owens@firstlook.org>
 3AA4 8D50 809F ADB2 0A1C  CCB1 B524 CDEB 5528 528A # Danielle Marie Mackey <danielle.mackey@theintercept.com>
 A5A3 68F4 DDEE E4D9 CB77  BE81 2B27 E8F5 E9E1 EF41 # Dan Shearer <dan.shearer@firstlook.org>
 58D0 C5E1 088B E33C A7C1  F0DF 4A3E D57B 4B87 886B # David Bralow <david.bralow@theintercept.com>
 D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.barreda@firstlook.org>
 AEB2 2E97 8D5A E82B 48B2  F774 AA7F B740 E062 A8B0 # Drew Wilson <drew.wilson@firstlook.media>
+
 296D 4CBC CBFC 54E3 C5C3  D8C3 C8C3 A735 A3A5 C023 # Eleri Harris <eleri.harris@firstlook.org>
 6D92 ECEF 45F2 9E57 CD3C  7318 C792 6BA2 F352 8784 # Elisa Cho <elisa.cho@firstlook.org>
 DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@firstlook.org>
 6BB3 9C06 9B2F D37E 44FC  07F7 808B 3E47 3329 1018 # Erinn Clark <erinn.clark@firstlook.org>
+
 4716 E0C0 F3B0 785A 1DE0  A67F 2F1A 7F5A 496D 98C9 # Farihah Zamen <farihah@fieldofvision.org>
 9BE7 8F29 70D2 A215 9C34  B008 A2E6 CEC9 D3B8 665D # Fei Liu <fei.liu@firstlook.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
+
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
+
 5862 FE16 D340 2E05 EB1E  C36D 9956 A842 8318 3C71 # Hector Rene <Hector.Rene@topic.com>
 BE6E 8F5A C6FB 74A4 D6DF  9AB3 ED20 F1F3 9FB2 9A61 # Henrik Moltke <moltke@theintercept.com>
+
 3B4B AF86 69C9 8612 C606  CBD0 B786 5754 0462 AD6F # J. Gabriel Boylan <gabriel.boylan@firstlook.org>
-F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # Cacie Prins <cacie.prins@firstlook.org>
 EB7C 1E42 D49D A953 FBF7  DF3C FF7A B2FA B291 70B8 # Jack D'Isidoro <jack.disidoro@firstlook.org>
 A296 30BC 372A 54F2 E293  658A BCA3 0AAA 31D6 8C35 # James Risen <jim.risen@firstlook.org>
 E887 6FF8 7412 2F8C B9C5  CC80 787E 9C3F C860 E72A # Jason Fisher <jason.fisher@firstlook.org>
@@ -65,11 +73,13 @@ C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@
 F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@theintercept.com>
 4027 179A 1284 EAF9 08A1  453B 9111 7B2B 9FBB 5147 # Joshua Thayer <jthayer@freedom.press>
 0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
+
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
 6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
 B8D1 55C6 E719 F636 9124  E24A FEF0 1CD7 549B BAAA # khadija abuyousif <khadija.abuyousif@firstlook.org>
+
 1E80 B8C5 0FFA CD75 580A  9EAA A3D9 1720 3E50 9809 # Larry Ho <larry@firstlook.org>
 3D5B 45C3 C5A2 4713 2786  7F95 ABDD 170C 726E 705C # Laura Flynn <laura.flynn@firstlook.org>
 3217 C509 292F C670 76EC  D75C 7614 269B DDF7 3B36 # Laura Poitras <laura.poitras@theintercept.com>
@@ -84,7 +94,9 @@ A2C4 E544 3426 F184 10A9  F8F2 2771 D356 6159 F6EE # Lisa Failla <lisa.failla@fi
 0070 635E F851 83F6 9831  99CC 7BC6 7D29 ED42 B4F7 # Lisa Minnetto <lisa.minnetto@firstlook.org>
 1902 64C1 66FA 8844 2A5E  180D 586F 4FF5 A8FE C488 # LJ Ruell <lj.ruell@theintercept.com>
 DDB3 7996 A11B CF83 F46F  4AB9 B8CB D02C D7D5 1E78 # Lynn Dombek <lynn.dombek@firstlook.org>
+
 E53B 1B71 2A98 B8B3 F827  5910 1EA6 8145 03C0 410B # Olivia Meng <olivia.meng@firstlook.org>
+
 19FD 7D40 28B8 49EF B1CF  FDBE 267F 488B 3CB9 C929 # Mahalia Cohen <mahalia.cohen@firstlook.org>
 6B4C CF04 2674 7FD6 77C3  2197 018D 30B0 80D4 C1BF # Madeline Coleman <madeline.coleman@topic.com>
 3DAB FA5A 0F5D 3870 1EC4  6D40 4CC7 A7B8 ECA0 9442 # Man Bartlett <man.bartlett@firstlook.org>
@@ -107,18 +119,21 @@ A001 C3A6 AA3E 87F4 967D  61FA D044 A42D 8E71 C28E # Michael Whitney <michael.wh
 236A 29D7 9462 0975 553D  8FE9 5937 8251 1494 6872 # Moiz Syed <moiz.syed@theintercept.com>
 3C93 215B BBCB ADC5 17DC  0205 962F 5236 DCF2 F009 # Mona Panchal <mona.panchal@firstlook.org>
 8D10 DC92 236F 5FE9 367D  0CEC 3EA8 914C 6790 EAF1 # Murtaza Hussain <murtaza.hussain@theintercept.com>
+
 17C5 6313 5445 E7E5 9A08  16A0 4363 0F7E 2BB9 72D1 # Naomi Klein <naomiaklein@gmail.com>
 E0BE 0804 CF04 A65C 1FC6  4CC4 CAD8 02E0 6604 6C02 # Nat Welch <nat.welch@firstlook.org>
 D022 DBCC D897 91EF 8C14  261D 40D7 A9A6 1BB8 E280 # Naya Samuel <naya.samuel@firstlook.org>
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
 87B3 56FE CD45 1C09 647A  25FE D0A5 A92B C33D B701 # Nikhil Kamkolkar <nikhil.kamkolkar@firstlook.org>
+
 D000 91B5 1864 FFFD FCB3  27E7 3487 3341 DE61 1A63 # Peter Clarke <peter.clarke@firstlook.org>
 0C49 0F9D 179E 263F 9FFE  5080 2198 F5B7 D4E5 391A # Peter Maass <petermaass@theintercept.com>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
 DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omidyar@firstlook.org>
 F5CA 77A0 2223 8C9D 435D  1AC5 C3D5 F86F C8AA 09DA # Prince Quarcoo <prince.quarcoo@firstlook.media>
 D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org>
+
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 B86F 545D 5098 E7A6 4D61  FFBB 55CA E3B4 78A9 FC8A # Rachel Traub <rachel.traub@topic.com>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
@@ -136,6 +151,7 @@ A6AA 12AD 62A6 7479 A0BE  CBCE C005 0B2F 457C F2B2 # Ryan Chanatry <ryan.chanatr
 32AD 59B6 BF74 5491 1132  FC36 01B2 8C9B 6295 6686 # Ryan Grim <ryan.grim@theintercept.com>
 BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@firstlook.org>
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
+
 A3D8 9684 F180 BF47 5702  E4B8 3FE7 9280 7092 17FF # Sairah Siddique <sairah.siddique@theintercept.com>
 3D2C B91D 3F17 4C26 1F8C  7973 778C DF34 3EEB 440F # Sasha Shor <sasha.shor@firstlook.org>
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
@@ -150,6 +166,7 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 5B6F A0CC 6BB8 A03C CC4C  6DE7 0C34 5404 FD46 C0AE # Stacey Politi <stacey.politi@firstlook.org>
 467E 8232 16EB A486 853B  C470 C72D DF9B ECCF 1398 # Stephanie Harris <stephanie.harris@firstlook.org>
 6AA3 F95A AA32 A252 523E  9631 0E07 0BBC F034 CB28 # Sue Gardner <susanpgardner@gmail.com>
+
 B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
 17A1 02FE 365C 3A7F EF04  1A76 C903 D6C6 B8A5 E23A # Talya Cooper <talya.cooper@firstlook.org>
 BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crowley@theintercept.com>
@@ -158,11 +175,14 @@ BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crow
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
 FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesanya@firstlook.org>
 9755 57F0 49AB 7FA4 8ED6  51A3 4AF2 65C3 4CE9 7A8E # Travis Mannon <travis.mannon@theintercept.com>
+
 2B58 F963 31D4 EF10 D00F  2FCB 1F65 3686 3601 0731 # Vanessa Gezari <vanessa.gezari@theintercept.com>
 9850 A368 56D0 8127 9894  879E F9C8 8503 5C22 1599 # Vince Gonzalez <vince.gonzalez@firstlook.org>
+
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
 30E3 489F 7EC9 555E F0A2  5A95 6897 0BE6 DCB3 09F0 # Will Fitzpatrick <will@firstlook.org>
 7D10 41CD 3553 D3C1 61E3  652D 6A85 06B7 EE57 4162 # Winston Varona <winston.varona@firstlook.org>
+
 0531 BA91 49F0 B7F8 67DC  D330 32E1 468F D6AF AB86 # Zach Young <zach.young@theintercept.com>
 8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
@@ -194,7 +214,6 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
-
 9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
 EB4F 43DA 8BC8 2D8E D7BC  BC28 13E4 D97E FADB 7B29 # Jessica Messina <jessica.messina@firstlook.org>
 7807 3D6D F411 A153 5AC4  C8EA CF70 07F6 7C66 1587 # Jonny Kuzmic <jonny.kuzmic@firstlook.media>
