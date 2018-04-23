@@ -182,6 +182,7 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 9850 A368 56D0 8127 9894  879E F9C8 8503 5C22 1599 # Vince Gonzalez <vince.gonzalez@firstlook.org>
 
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
+BB60 22EC 89A1 558A FAFF  8175 4F09 5B54 F1B6 9A95 # Will Fitzpatrick <will@wfitzpatrick.com>
 30E3 489F 7EC9 555E F0A2  5A95 6897 0BE6 DCB3 09F0 # Will Fitzpatrick <will@firstlook.org>
 7D10 41CD 3553 D3C1 61E3  652D 6A85 06B7 EE57 4162 # Winston Varona <winston.varona@firstlook.org>
 
