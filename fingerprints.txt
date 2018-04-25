@@ -71,6 +71,7 @@ A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomaso
 C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@firstlook.org>
 595A E3C5 7B71 55DF DBC0  5D7E 9A1F 69BA 243F 9AF7 # Jordan Smith <jordan.smith@theintercept.com>
 66AA 0E12 87B6 60A2 109D  E5DE 9297 05D3 ED78 3DA6 # Jorge Jackson <jorge.jackson@firstlook.org>
+00C5 0219 12AF 024D 83CA  4F14 3FA1 0B21 74B3 BEBC # Joseph Poulous <joseph.poulous@firstlook.media>
 F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@theintercept.com>
 4027 179A 1284 EAF9 08A1  453B 9111 7B2B 9FBB 5147 # Joshua Thayer <jthayer@freedom.press>
 0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
@@ -213,6 +214,7 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
+11AA 69AF 292D ECA3 1FD6  97B3 0D31 204F 62CC 2396 # Dina Sayedahmed <dina.sayedahmed@theintercept.com>
 9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
 EB4F 43DA 8BC8 2D8E D7BC  BC28 13E4 D97E FADB 7B29 # Jessica Messina <jessica.messina@firstlook.org>
 7807 3D6D F411 A153 5AC4  C8EA CF70 07F6 7C66 1587 # Jonny Kuzmic <jonny.kuzmic@firstlook.media>
