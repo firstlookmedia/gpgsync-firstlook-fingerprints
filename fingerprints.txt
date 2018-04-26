@@ -23,7 +23,6 @@ D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollin
 
 DF78 9B0B 8AFD 4D1F B6E2  50CB 100C 150C 2A69 3576 # Carl Licata <carl.licata@firstlook.org>
 5FDD 6DA6 10E5 FD4C A260  BA77 7D01 039C 2343 BDC9 # Caroline Smith <caroline.smith@firstlook.org>
-529A 6D59 C4C8 8812 5675  85FB 58D5 2051 A134 F015 # Carrie Lieberman <carrie.lieberman@firstlook.org>
 F08C 952F 7912 8A13 7C36  BBB1 FE51 C3C4 DB9D 01BE # Cacie Prins <cacie.prins@firstlook.org>
 B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.seo@firstlook.org>
 5D06 1CA2 F440 AAB8 99CE  F615 DB69 2347 930F C367 # Charlotte Cook <charlotte.cook@theintercept.com>
