@@ -18,7 +18,6 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 9A81 79C1 B495 A91A 7DC4  DEFA 374B 9D73 5208 FD03 # Brenda Coughlin <brendacoughlin@mac.com>
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
-9225 01E3 EF90 3E13 F930  474F 1260 0A41 BD1E D573 # Brittany Westfall <brittany.westfall@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
 
 DF78 9B0B 8AFD 4D1F B6E2  50CB 100C 150C 2A69 3576 # Carl Licata <carl.licata@firstlook.org>
