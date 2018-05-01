@@ -36,6 +36,7 @@ D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.bar
 AEB2 2E97 8D5A E82B 48B2  F774 AA7F B740 E062 A8B0 # Drew Wilson <drew.wilson@firstlook.media>
 
 296D 4CBC CBFC 54E3 C5C3  D8C3 C8C3 A735 A3A5 C023 # Eleri Harris <eleri.harris@firstlook.org>
+4FE8 5527 8806 EDB7 FF96  D765 5A6D F1E2 8961 49A2 # Eli Kurland <eli.kurland@firstlook.media>
 6D92 ECEF 45F2 9E57 CD3C  7318 C792 6BA2 F352 8784 # Elisa Cho <elisa.cho@firstlook.org>
 DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@firstlook.org>
 6BB3 9C06 9B2F D37E 44FC  07F7 808B 3E47 3329 1018 # Erinn Clark <erinn.clark@firstlook.org>
@@ -171,6 +172,7 @@ CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerne
 
 B7C1 EDA6 7350 C68E 23AC  5B5D D70F 550C 8E55 4CAA # Talia Cohen <talia.cohen@firstlook.org>
 17A1 02FE 365C 3A7F EF04  1A76 C903 D6C6 B8A5 E23A # Talya Cooper <talya.cooper@firstlook.org>
+B8C0 9F0D 8DBB 46E0 7879  BCD0 A36F 1E36 B208 F354 # Tammy Nesmith <tammy.nesmith@firstlook.media>
 BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crowley@theintercept.com>
 030C 8D58 A26E 7D12 6404  4A0B D16C 3A41 949D 203A # Todd Fleisher <todd@firstlook.org>
 8B25 532F E134 62D9 4AF0  26A3 0F2C 120C 0A5D C5D4 # Todd Green <todd.green@firstlook.org>
@@ -180,6 +182,7 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 
 2B58 F963 31D4 EF10 D00F  2FCB 1F65 3686 3601 0731 # Vanessa Gezari <vanessa.gezari@theintercept.com>
 9850 A368 56D0 8127 9894  879E F9C8 8503 5C22 1599 # Vince Gonzalez <vince.gonzalez@firstlook.org>
+627A B7BE F881 87A5 D4E3  ECAB 3CE3 7F47 0A73 5DB6 # Vincent Abruzzo <vincent.abruzzo@firstlook.media>
 
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
 BB60 22EC 89A1 558A FAFF  8175 4F09 5B54 F1B6 9A95 # Will Fitzpatrick <will@wfitzpatrick.com>
