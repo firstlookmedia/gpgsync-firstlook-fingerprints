@@ -18,6 +18,7 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 9A81 79C1 B495 A91A 7DC4  DEFA 374B 9D73 5208 FD03 # Brenda Coughlin <brendacoughlin@mac.com>
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
+2F1C 56AB CEC8 97D2 238D  0194 3DE9 3EED DBF2 EFE5 # Briahna Gray <briahna.gray@theintercept.com>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
 2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
 
@@ -219,3 +220,4 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
 B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.legro@topic.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
+43BE A67B B546 5A0D 33BC  EAE6 DB8E D832 B039 72FF # William Frank <will.frank@topic.com>
