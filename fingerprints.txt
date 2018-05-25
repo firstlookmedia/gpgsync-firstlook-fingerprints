@@ -20,7 +20,7 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
 2F1C 56AB CEC8 97D2 238D  0194 3DE9 3EED DBF2 EFE5 # Briahna Gray <briahna.gray@theintercept.com>
 4992 7D50 F7AD 1444 90E2  26A2 55F5 389B 16EA FEDB # Brian Sweeney <brian@firstlook.org>
-2B00 B705 E435 4045 C440  7FDA 38EC 50C8 BB4E F7C2 # Bryce J. Renninger <bryce@fieldofvision.org>
+
 
 DF78 9B0B 8AFD 4D1F B6E2  50CB 100C 150C 2A69 3576 # Carl Licata <carl.licata@firstlook.org>
 5FDD 6DA6 10E5 FD4C A260  BA77 7D01 039C 2343 BDC9 # Caroline Smith <caroline.smith@firstlook.org>
@@ -218,6 +218,7 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
 3AC0 E8BD 58E1 3899 5346  3017 357F F0A7 5864 25DB # Hannah Lauson <Hannah.lauson@firstlook.media>
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
+D47F 1BDA 784C E74F CFA4  510C E6A1 3675 3E29 BC71 # Maridelis Morales Rosado <maridelis.morales@topic.com>
 B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.legro@topic.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 43BE A67B B546 5A0D 33BC  EAE6 DB8E D832 B039 72FF # William Frank <will.frank@topic.com>
