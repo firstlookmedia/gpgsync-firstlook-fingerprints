@@ -190,6 +190,7 @@ BB60 22EC 89A1 558A FAFF  8175 4F09 5B54 F1B6 9A95 # Will Fitzpatrick <will@wfit
 8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
 #TIB
+B7A1 D063 8443 5ED6 B823  A905 0B3E BDDA AFB1 226E # André Souza <andre.souza@theintercept.com>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 E1DB 58AD 1614 EC40 24A4  B8B3 60B5 4E3F 39AD 0F57 # Bruna de Lara <bruna.delara@theintercept.com>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
