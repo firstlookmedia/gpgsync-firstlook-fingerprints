@@ -47,7 +47,6 @@ E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@fi
 
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
 
-5862 FE16 D340 2E05 EB1E  C36D 9956 A842 8318 3C71 # Hector Rene <Hector.Rene@topic.com>
 BE6E 8F5A C6FB 74A4 D6DF  9AB3 ED20 F1F3 9FB2 9A61 # Henrik Moltke <moltke@theintercept.com>
 
 3B4B AF86 69C9 8612 C606  CBD0 B786 5754 0462 AD6F # J. Gabriel Boylan <gabriel.boylan@firstlook.org>
