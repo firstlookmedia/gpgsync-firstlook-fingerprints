@@ -141,7 +141,7 @@ ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstloo
 6EFC 317D 1B6A 7436 B5E8  35D3 7BFF D6EC 5CC1 B4B7 # Ray Cuadrado <ray.cuadrado@firstlook.org>
 8116 888D 8C37 230D 1212  68E2 415F 63C7 1968 D8F6 # Rebecca Workman <rebecca.workman@firstlook.org>
 4864 FDAF C1DB DC02 5B1E  1098 41BF 77A8 8E9D FB64 # Reyhan Harmanci <reyhan.harmanci@firstlook.org>
-6B46 1EA1 AF5A BE5E 2D11  7C49 1DED B107 E275 F494 # Rhonda Gale <rhonda.gale@firstlook.media>
+6B46 1EA1 AF5A BE5E 2D11 7C49 1DED B107 E275 F494 # Rhonda Gale <rhonda.gale@firstlook.media>
 FB79 2352 6F3C BA07 909D  766F 8F6C AB73 335F B9D8 # Robert Mackey <robert.mackey@theintercept.com>
 7D4E 54EC 10E6 7F6A 793F  AD51 F7FE A0A4 8458 2ABD # Rodrigo Brandão <rodrigo.brandao@theintercept.com>
 B3BC F4A8 8BF4 39C5 F5AB  EBE5 25D4 7DD2 2B4A 541E # Roger Hodge <roger.hodge@theintercept.com>
@@ -218,15 +218,15 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 4EF9 B822 CE5A C54A C688  91E4 C12D 07EA 0A0F EEF0 # Dolly Ahluwalia <dolly.ahluwalia@firstlook.media>
 9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
 3AC0 E8BD 58E1 3899 5346  3017 357F F0A7 5864 25DB # Hannah Lauson <Hannah.lauson@firstlook.media>
-5EB5 2BD9 AA1C 243F 6138  C673 11FC C3A8 18B0 EEEB # Jessica Call <jessica.call@topic.com>
+5EB5 2BD9 AA1C 243F 6138 C673 11FC C3A8 18B0 EEEB # Jessica Call <jessica.call@topic.com>
 10BC 87DA 62BF DA8F B8EB  5DF4 9061 9E7A F6C7 8680 # JJ Citron <jj.citron@firstlook.media>
 1FA3 A335 9056 1593 4713  CBD7 BB6D 5DDF 27E6 5742 # Krish Dholakiya <krishna.dholakiya@firstlook.media>
-9D87 DDB4 AF66 0BB2 B080  B670 B30E 24C4 A46B D8CD # Lake Buckley <lake.buckley@firstlook.media>
+9D87 DDB4 AF66 0BB2 B080 B670 B30E 24C4 A46B D8CD # Lake Buckley <lake.buckley@firstlook.media>
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
 D47F 1BDA 784C E74F CFA4  510C E6A1 3675 3E29 BC71 # Maridelis Morales Rosado <maridelis.morales@topic.com>
 B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.legro@topic.com>
 E982 DBE9 E44F 4E34 4C7F  C568 2787 BA4D 5A4A 542B # Olivia Marsh <olivia.marsh@topic.com>
-5B02 4050 F385 11E5 0124  67DF 0D4B C094 A464 5482 # Paula Cantillo <paula.cantillo@topic.com>
+5B02 4050 F385 11E5 0124 67DF 0D4B C094 A464 5482 # Paula Cantillo <paula.cantillo@topic.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
-808B 07E3 4D35 F696 EFA9  1A97 4075 96AE 9F5D 9BFB # Sudeepa Singh <sudeepa.singh@topic.com>
+808B 07E3 4D35 F696 EFA9 1A97 4075 96AE 9F5D 9BFB # Sudeepa Singh <sudeepa.singh@topic.com>
 43BE A67B B546 5A0D 33BC  EAE6 DB8E D832 B039 72FF # William Frank <will.frank@topic.com>
