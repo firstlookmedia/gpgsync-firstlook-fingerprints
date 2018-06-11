@@ -1,4 +1,5 @@
 # First Look employees
+2F31 A984 A5C5 85BF AEF4 0732 8FAF 0811 EBB0 7DB7 # Adam Cooper <adam.cooper@firstlook.media>
 A201 F9EE 3AC5 DDE1 32B7  2D44 EABF 89F4 F1F0 A6B4 # Adam Pincus <adam.pincus@firstlook.org>
 10EF 5E0D CB62 ED5F 677D  7CB9 A655 203A 353D 2999 # Aida Chavez <aida.chavez@theintercept.com>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
@@ -74,6 +75,7 @@ F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@
 0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
 
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
+557E 7987 C7C9 4636 9284 FB60 3778 6BD4 E2BE C685 # Kate Zabinsky <kate.zabinsky@topic.com>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
 6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 1750 D454 FBF7 37BC 7E11  D89D 8F15 598B 0F72 930C # Kenya Banks <kenya.banks@firstlook.org>
@@ -213,13 +215,14 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
+B6A6 9686 C386 A778 A5BE 3039 F9C9 61B4 E109 4CE1 # Bernadette Bridges <bernadette.bridges@topic.com>
 9789 E081 85E7 E4B9 E97B  AD2A 7BE2 DF2F 139A BA31 # Bernarr Merriett <Bernarr.Merriett@firstlook.media>
 11AA 69AF 292D ECA3 1FD6  97B3 0D31 204F 62CC 2396 # Dina Sayedahmed <dina.sayedahmed@theintercept.com>
 4EF9 B822 CE5A C54A C688  91E4 C12D 07EA 0A0F EEF0 # Dolly Ahluwalia <dolly.ahluwalia@firstlook.media>
 9A6C 5BED C25F 39EC 869D  2357 ED3F 7E0B 37EC 0260 # Evan Murray <evan.murray@firstlook.org>
 3AC0 E8BD 58E1 3899 5346  3017 357F F0A7 5864 25DB # Hannah Lauson <Hannah.lauson@firstlook.media>
-5EB52BD9AA1C243F6138C67311FCC3A818B0EEEB # Jessica Call <jessica.call@topic.com>
 10BC 87DA 62BF DA8F B8EB  5DF4 9061 9E7A F6C7 8680 # JJ Citron <jj.citron@firstlook.media>
+0177 5D0A 0D6D 23BE 2781 7EB5 F898 29E5 D6C8 5E33 # Kat Moon <kat.moon@theintercept.com>
 1FA3 A335 9056 1593 4713  CBD7 BB6D 5DDF 27E6 5742 # Krish Dholakiya <krishna.dholakiya@firstlook.media>
 9D87DDB4AF660BB2B080B670B30E24C4A46BD8CD # Lake Buckley <lake.buckley@firstlook.media>
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
