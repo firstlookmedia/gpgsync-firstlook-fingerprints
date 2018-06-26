@@ -203,6 +203,7 @@ F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moren
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
+F0AD FEEC E1AB 0A59 AFD4  846B DE3F A703 CFD2 5AEB # tatiana dias <tatiana.dias@theintercept.com> 
 0329 AC28 4D83 5804 73DB  F074 01C9 AE8F DD26 12C3 # Victor Pougy <victor.pougy@theintercept.com>
 
 # Organization keys
