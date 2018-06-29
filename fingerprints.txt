@@ -159,7 +159,6 @@ A3D8 9684 F180 BF47 5702  E4B8 3FE7 9280 7092 17FF # Sairah Siddique <sairah.sid
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
 72D7 6D77 EFCF 7C5D C628  BAD2 5D7F 56C2 5811 B183 # Sam Biddle <sam.biddle@theintercept.com>
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
-0ADE FA35 88D0 8DCA 11ED  F0D7 F64A 3F18 39ED 007C # Sandra Kim <sandra.kim@firstlook.org>
 CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerner@theintercept.com>
 45E5 9CD4 AEBB 1A23 AA78  8072 7549 247E 4547 1041 # Shaun King <shaun.king@theintercept.com>
 557F 7BD7 FB1D 18D6 7B95  1349 A871 C03E B3EC CA44 # Sheelagh McNeill <sheelagh.mcneill@theintercept.com>
