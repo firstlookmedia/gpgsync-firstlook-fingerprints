@@ -62,6 +62,7 @@ B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconne
 5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
 961C F57E 0626 512C 7B5B  D5E4 1C50 3D8B FECF FD31 # Jihan Bassett <jihan.robinson@firstlook.org>
+5B63 7AA2 F4F5 AB27 53C3  5AD8 6571 3952 1808 2C19 # Jil Tai <jil.tai@theintercept.com>
 A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@firstlook.org>
 7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwarz@theintercept.com>
 3608 4B2E DB6C 9B76 9865  6D6A 92ED AB63 BA82 B164 # Jordan Hellman <jordan.hellman@firstlook.org>
@@ -71,6 +72,7 @@ C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@
 00C5 0219 12AF 024D 83CA  4F14 3FA1 0B21 74B3 BEBC # Joseph Poulous <joseph.poulous@firstlook.media>
 F23B 9817 ECFF AF18 4107  2905 CB37 7EB6 A498 FCD3 # Joshua Begley <josh.begley@theintercept.com>
 4027 179A 1284 EAF9 08A1  453B 9111 7B2B 9FBB 5147 # Joshua Thayer <jthayer@freedom.press>
+CD7B F807 486C DA0B BD52  C20A 500D 209E BAF8 AEDB # Judy Silverman <judy.silverman@firstlook.media>
 4DB5 EB6B BB67 ACCC 8CB4  924E 6ABF CC1C AA93 7CE4 # Julie Wolf <Julie.Wolf@FirstLook.Media>
 0188 EE9C 750A DD1F C3FD  724B 8CC3 71CE 8881 E8BD # June Jennings <june@fieldofvision.org>
 
