@@ -245,5 +245,4 @@ E982 DBE9 E44F 4E34 4C7F  C568 2787 BA4D 5A4A 542B # Olivia Marsh <olivia.marsh@
 1326 CB16 2C69 21BF 085F  8459 F3C7 8280 DDBF 52A1 # R. Miles McCain <0@rmrm.io>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 808B 07E3 4D35 F696 EFA9  1A97 4075 96AE 9F5D 9BFB # Sudeepa Singh <sudeepa.singh@topic.com>
-CEFA EA7F 9458 483C EC83  493B 3E79 3D18 C2A8 494D # Taylor Griffith <taylor.griffith@topic.com>
 43BE A67B B546 5A0D 33BC  EAE6 DB8E D832 B039 72FF # William Frank <will.frank@topic.com>
