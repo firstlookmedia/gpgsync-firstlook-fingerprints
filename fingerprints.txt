@@ -212,6 +212,7 @@ C62A 2230 5CE2 9617 4C98  E329 C432 3ACF A049 8C34 # João Brizzi <joao.brizzi@f
 0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
 92BB 80B7 52FA 2ADB 34F0  646A 3281 7199 6359 2643 # Nayara Felizardo <nayara.felizardo@firstlook.media>
 141E 3944 DD0A C3C1 AC8F  59E9 6D18 C9DA 9A8B 5321 # Paula Bianchi <paula.bianchi@theintercept.com>
+E6D6 592C 9731 B2D6 915F  9274 062B A8E5 2763 810A # Rodrigo Bento <rodrigo.bento@theintercept.com>
 F0AD FEEC E1AB 0A59 AFD4  846B DE3F A703 CFD2 5AEB # tatiana dias <tatiana.dias@theintercept.com>
 0329 AC28 4D83 5804 73DB  F074 01C9 AE8F DD26 12C3 # Victor Pougy <victor.pougy@theintercept.com>
 
