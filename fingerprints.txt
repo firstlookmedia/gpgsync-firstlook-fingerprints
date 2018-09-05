@@ -48,6 +48,7 @@ E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@fi
 
 4E28 15C0 5FF7 4364 76F2  EE34 788A C78F B92B 5AA7 # Giuseppe Chiara <giuseppe.chiara@firstlook.media>
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
+2D26 F55A DA2C FC23 931E  49DC EE2F 8443 4ACE 3301 # Greg Boone <greg.boone@firstlook.media>
 
 BE6E 8F5A C6FB 74A4 D6DF  9AB3 ED20 F1F3 9FB2 9A61 # Henrik Moltke <moltke@theintercept.com>
 
