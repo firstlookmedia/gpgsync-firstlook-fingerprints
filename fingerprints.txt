@@ -229,7 +229,6 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
-EC35 304B 4EEF 27AA 0047  7D84 3FDE 3F34 43AA 4612 # Aisha Amin <aisha.amin@topic.com>
 9789 E081 85E7 E4B9 E97B  AD2A 7BE2 DF2F 139A BA31 # Bernarr Merriett <Bernarr.Merriett@firstlook.media>
 F876 C447 1752 75BC E186  E455 E14C 22FC 758F D3A8 # Clara Hughes <clara.hughes@topic.com>
 11AA 69AF 292D ECA3 1FD6  97B3 0D31 204F 62CC 2396 # Dina Sayedahmed <dina.sayedahmed@theintercept.com>
