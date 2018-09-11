@@ -9,6 +9,7 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 5D24 0C16 CFE3 F8B2 9616  2653 D39F 6457 6C2E FD79 # Alice Speri <alice.speri@theintercept.com>
 8FBF C86B EFF6 CE21 48EE  0DC5 5937 9E23 EA01 2B37 # Alleen Brown <alleen.brown@theintercept.com>
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
+78A6 007B 5D64 04E3 4636  84FA F0E8 A28A C0C0 40A9 # Amelia Irwin <amelia.irwin@topic.com>
 769D 12D2 8AF7 1984 4635  2225 440C 5DD6 3CAA 02ED # Amy Chen <amy.chen@firstlook.org>
 4919 A64F 30A8 67F6 6C5C  A311 4D62 9E7E 3F00 8709 # Andrea Jones <andrea.jones@theintercept.com>
 57EE FFAD 992B 0854 917D  3ECE CD94 8BBF 5EE4 ABE9 # Andy Gillette <andy.gillette@firstlook.org>
