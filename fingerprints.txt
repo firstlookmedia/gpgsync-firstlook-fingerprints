@@ -1,6 +1,5 @@
 # First Look employees
 2F31 A984 A5C5 85BF AEF4  0732 8FAF 0811 EBB0 7DB7 # Adam Cooper <adam.cooper@firstlook.media>
-A201 F9EE 3AC5 DDE1 32B7  2D44 EABF 89F4 F1F0 A6B4 # Adam Pincus <adam.pincus@firstlook.org>
 10EF 5E0D CB62 ED5F 677D  7CB9 A655 203A 353D 2999 # Aida Chavez <aida.chavez@theintercept.com>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
@@ -62,6 +61,7 @@ A18A 8786 5686 01AE 70CA  5F0A 334E 0022 C90D 51D3 # Jeannie Kedas <jeannie.keda
 B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconnell@firstlook.org>
 12D8 DE7A E504 26A3 9C99  B4D2 4FE8 1789 ABFB 42D2 # Jeff Seelbach <jeff.seelbach@topic.com>
 328F 4C1B 3005 634B F0F5  284B 1311 25BF 0BB2 E36B # Jennifer Knudsen <jen@firstlook.org>
+57C9 52F7 1C9F 7EA5 BE9B  10F5 EC79 01C2 C057 FD28 # Jennifer Liang <jennifer.liang@topic.com>
 5583 19F2 C548 3615 E702  6FCD 2341 5F88 FD12 1AFD # Jennie Bedusa <jennie.bedusa@firstlook.org>
 9FD2 A4D1 CEBF 2C31 EE1F  B308 9F90 4CC8 45AA B390 # Jeremy Scahill <jeremy.scahill@theintercept.com>
 961C F57E 0626 512C 7B5B  D5E4 1C50 3D8B FECF FD31 # Jihan Bassett <jihan.robinson@firstlook.org>
@@ -109,6 +109,7 @@ E53B 1B71 2A98 B8B3 F827  5910 1EA6 8145 03C0 410B # Olivia Meng <olivia.meng@fi
 
 19FD 7D40 28B8 49EF B1CF  FDBE 267F 488B 3CB9 C929 # Mahalia Cohen <mahalia.cohen@firstlook.org>
 6B4C CF04 2674 7FD6 77C3  2197 018D 30B0 80D4 C1BF # Madeline Coleman <madeline.coleman@topic.com>
+BCB2 F861 A6A5 396E A4DC  4784 FCDC CBD9 DF17 0EB7 # Madeleine Crenshaw <madeleine.crenshaw@topic.com>
 3DAB FA5A 0F5D 3870 1EC4  6D40 4CC7 A7B8 ECA0 9442 # Man Bartlett <man.bartlett@firstlook.org>
 0C15 98A4 CB4E E371 08DA  22AB CDDC B840 4A3A 7BD7 # Marguerite Nutter <marguerite.nutter@firstlook.org>
 D301 003E DD1E 1BEA 6BE0  181B BB58 C7E5 F949 4209 # Margot Williams <margot.williams@theintercept.com>
@@ -205,6 +206,7 @@ B25E 64EF 800D E539 72CC  66B1 DCF8 A330 A7D7 28A0 # Yoni Golijov <yoni.golijov@
 B7A1 D063 8443 5ED6 B823  A905 0B3E BDDA AFB1 226E # André Souza <andre.souza@theintercept.com>
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 E1DB 58AD 1614 EC40 24A4  B8B3 60B5 4E3F 39AD 0F57 # Bruna de Lara <bruna.delara@theintercept.com>
+5D90 854D D877 BFB2 0D82  5290 CC1A 0578 52F5 123A # Bruno Sousa <bruno.sousa@firstlook.media>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
 F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
@@ -230,12 +232,16 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 665D 9C76 119F EC51 AD4C  E386 702F 63A2 11B3 5C08 # Receptionist Temp <receptionist-temp@firstlook.media>
 
 # Interns
+C798 3511 326B 73D8 4EF7  A689 2B65 704B 58B2 20D4 # Akela Lacy <akela.lacy@theintercept.com>
+A74A 1F2D 6036 AFB2 6C3B  0733 8B34 C70D 72BB E646 # Alex Sandoval <alex.sandoval@topic.com>
 9789 E081 85E7 E4B9 E97B  AD2A 7BE2 DF2F 139A BA31 # Bernarr Merriett <Bernarr.Merriett@firstlook.media>
+F48F 9A2F 89D8 50D8 858D  112B 2B88 BF0E 75CA 13F5 # Camille Baker <cmb2279@columbia.edu>
 F876 C447 1752 75BC E186  E455 E14C 22FC 758F D3A8 # Clara Hughes <clara.hughes@topic.com>
 11AA 69AF 292D ECA3 1FD6  97B3 0D31 204F 62CC 2396 # Dina Sayedahmed <dina.sayedahmed@theintercept.com>
 4EF9 B822 CE5A C54A C688  91E4 C12D 07EA 0A0F EEF0 # Dolly Ahluwalia <dolly.ahluwalia@firstlook.media>
 BB77 238D 11DE 4E6F 6FCE  D064 AD14 56D1 5054 2E6D # Henry Yuliano <henry.yuliano@topic.com>
 10BC 87DA 62BF DA8F B8EB  5DF4 9061 9E7A F6C7 8680 # JJ Citron <jj.citron@firstlook.media>
+7854 12EB 8C87 2788 C2E9  6268 13E9 0778 CA14 B3C4 # JuliAnna Patino <julianna.patino@theintercept.com>
 1FA3 A335 9056 1593 4713  CBD7 BB6D 5DDF 27E6 5742 # Krish Dholakiya <krishna.dholakiya@firstlook.media>
 618C 8E40 C038 ABF3 8B93  FEF1 7ADB 2C4F F731 ED89 # Maha Ahmed <maha.ahmed@theintercept.com>
 D47F 1BDA 784C E74F CFA4  510C E6A1 3675 3E29 BC71 # Maridelis Morales Rosado <maridelis.morales@topic.com>
@@ -243,5 +249,6 @@ B951 394C CCCF 4AB2 0A59  7A3E BB26 B506 23F1 E875 # Michelle Legro <michelle.le
 E982 DBE9 E44F 4E34 4C7F  C568 2787 BA4D 5A4A 542B # Olivia Marsh <olivia.marsh@topic.com>
 5B02 4050 F385 11E5 0124  67DF 0D4B C094 A464 5482 # Paula Cantillo <paula.cantillo@topic.com>
 1326 CB16 2C69 21BF 085F  8459 F3C7 8280 DDBF 52A1 # R. Miles McCain <0@rmrm.io>
+1FB1 107B 443D F090 D66B  9711 EB4F D046 247D 8FF9 # Sidhant Tilokani <sidhant.tilokani@topic.com>
 9270 FE94 2432 0BCA DA66  9A07 990C 9F1F D9B3 CAA2 # Sam Couch <sam@couch.rocks>
 43BE A67B B546 5A0D 33BC  EAE6 DB8E D832 B039 72FF # William Frank <will.frank@topic.com>
