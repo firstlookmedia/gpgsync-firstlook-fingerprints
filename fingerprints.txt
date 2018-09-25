@@ -28,6 +28,7 @@ B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.se
 5D06 1CA2 F440 AAB8 99CE  F615 DB69 2347 930F C367 # Charlotte Cook <charlotte.cook@theintercept.com>
 D228 CF93 4DB8 CAB3 38F9  B0D2 F237 F239 219A 5AB1 # Charlotte Greensit <charlotte.greensit@theintercept.com>
 CC23 B6AE D956 A572 4B81  F476 4E1C 9655 0DB0 0F95 # Cora Currier <cora.currier@theintercept.com>
+8A68 27D9 6609 1069 F2F5  53EA 4148 1B9A B51D 0D73 # Craig Parks <craig.parks@firstlook.media>
 
 0C65 D284 BC3D 1214 131F  4EE1 C53B 8DED 889B 64D3 # Daniele Owens <daniele.owens@firstlook.org>
 3AA4 8D50 809F ADB2 0A1C  CCB1 B524 CDEB 5528 528A # Danielle Marie Mackey <danielle.mackey@theintercept.com>
