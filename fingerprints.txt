@@ -165,7 +165,6 @@ BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@fi
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
 
 A3D8 9684 F180 BF47 5702  E4B8 3FE7 9280 7092 17FF # Sairah Siddique <sairah.siddique@theintercept.com>
-BF25 50E4 FD8F C935 B394  B140 8310 9193 2A67 7D34 # Sara Lane <sara.lane@firstlook.media>
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
 127F 005D 1093 BA2E 175C  C4E9 1E21 429B A754 4C5E # Sam Biddle <sam.biddle@theintercept.com>
 72D7 6D77 EFCF 7C5D C628  BAD2 5D7F 56C2 5811 B183 # Sam Biddle <sam.biddle@theintercept.com> [revoked]
