@@ -144,7 +144,8 @@ D000 91B5 1864 FFFD FCB3  27E7 3487 3341 DE61 1A63 # Peter Clarke <peter.clarke@
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
 DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omidyar@firstlook.org>
 F5CA 77A0 2223 8C9D 435D  1AC5 C3D5 F86F C8AA 09DA # Prince Quarcoo <prince.quarcoo@firstlook.media>
-D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org>
+D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org> OLD
+759F FD83 E0ED 0320 AAE0  07CC DC13 8B15 3B70 5E02 # Prince Serna <prince@firstlook.media>
 
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
 ACEE FAF0 CA7B 8B91 3161  34FC EBDF CC53 9B52 4DC9 # Randy Ching <randy@firstlook.org>
@@ -209,10 +210,12 @@ B7A1 D063 8443 5ED6 B823  A905 0B3E BDDA AFB1 226E # André Souza <andre.souza@t
 E1DB 58AD 1614 EC40 24A4  B8B3 60B5 4E3F 39AD 0F57 # Bruna de Lara <bruna.delara@theintercept.com>
 5D90 854D D877 BFB2 0D82  5290 CC1A 0578 52F5 123A # Bruno Sousa <bruno.sousa@firstlook.media>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
-F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com>
+5A68 5EC9 FB3E E455 B4D0  B7FD CFF7 7A0C E5E9 970E # Emilio Moreno <emilio.moreno@theintercept.com>
+F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com> REVOKED
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 C62A 2230 5CE2 9617 4C98  E329 C432 3ACF A049 8C34 # João Brizzi <joao.brizzi@firstlook.media>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
+B73C 1DA9 A602 61B5 B6D4  AD2D B7B0 0457 6E48 3CA7 # José Victor Cardoso <josevictor.cardoso@firstlook.media>
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
 92BB 80B7 52FA 2ADB 34F0  646A 3281 7199 6359 2643 # Nayara Felizardo <nayara.felizardo@firstlook.media>
@@ -235,6 +238,7 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 # Interns
 C798 3511 326B 73D8 4EF7  A689 2B65 704B 58B2 20D4 # Akela Lacy <akela.lacy@theintercept.com>
 A74A 1F2D 6036 AFB2 6C3B  0733 8B34 C70D 72BB E646 # Alex Sandoval <alex.sandoval@topic.com>
+6DD1 40A8 BDC6 9033 A09C  59B8 E5A9 4799 FF4D 4DEA # Belle Lin <belle.lin@theintercept.com>
 9789 E081 85E7 E4B9 E97B  AD2A 7BE2 DF2F 139A BA31 # Bernarr Merriett <Bernarr.Merriett@firstlook.media>
 F48F 9A2F 89D8 50D8 858D  112B 2B88 BF0E 75CA 13F5 # Camille Baker <cmb2279@columbia.edu>
 F876 C447 1752 75BC E186  E455 E14C 22FC 758F D3A8 # Clara Hughes <clara.hughes@topic.com>
