@@ -169,7 +169,6 @@ BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@fi
 A3D8 9684 F180 BF47 5702  E4B8 3FE7 9280 7092 17FF # Sairah Siddique <sairah.siddique@theintercept.com>
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
 127F 005D 1093 BA2E 175C  C4E9 1E21 429B A754 4C5E # Sam Biddle <sam.biddle@theintercept.com>
-72D7 6D77 EFCF 7C5D C628  BAD2 5D7F 56C2 5811 B183 # Sam Biddle <sam.biddle@theintercept.com> [revoked]
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
 CB29 D9FF 9285 3205 087E  83A1 0C30 2F39 4F30 8BFE # Sharon Lerner <sharon.lerner@theintercept.com>
 45E5 9CD4 AEBB 1A23 AA78  8072 7549 247E 4547 1041 # Shaun King <shaun.king@theintercept.com>
@@ -188,6 +187,7 @@ BECA A003 1A30 7CF5 9ECD  3351 4C27 2050 BBFF B14E # Thomas Crowley <thomas.crow
 030C 8D58 A26E 7D12 6404  4A0B D16C 3A41 949D 203A # Todd Fleisher <todd@firstlook.org>
 8B25 532F E134 62D9 4AF0  26A3 0F2C 120C 0A5D C5D4 # Todd Green <todd.green@firstlook.org>
 37C0 0637 8814 278E B2A6  62DF 029F E0AE AED1 EA5E # Tom Conroy <tom.conroy@firstlook.org>
+2C7C 9E0D 1997 6F20 FDDB  197D 642C E43E BB11 2D3D # Tori Sgarro <tori.sgarro@firstlook.media>
 FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesanya@firstlook.org>
 9755 57F0 49AB 7FA4 8ED6  51A3 4AF2 65C3 4CE9 7A8E # Travis Mannon <travis.mannon@theintercept.com>
 
@@ -196,8 +196,6 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 627A B7BE F881 87A5 D4E3  ECAB 3CE3 7F47 0A73 5DB6 # Vincent Abruzzo <vincent.abruzzo@firstlook.media>
 
 2856 6482 5CC1 D714 9C3D  D51C E5BC AC54 0AFF 8A3A # Westley Argentum Hennigh-Palermo <westley.hennigh-palermo@firstlook.org>
-BB60 22EC 89A1 558A FAFF  8175 4F09 5B54 F1B6 9A95 # Will Fitzpatrick <will@wfitzpatrick.com>
-30E3 489F 7EC9 555E F0A2  5A95 6897 0BE6 DCB3 09F0 # Will Fitzpatrick <will@firstlook.org>
 7D10 41CD 3553 D3C1 61E3  652D 6A85 06B7 EE57 4162 # Winston Varona <winston.varona@firstlook.org>
 
 B25E 64EF 800D E539 72CC  66B1 DCF8 A330 A7D7 28A0 # Yoni Golijov <yoni.golijov@firstlook.media
@@ -212,7 +210,6 @@ E1DB 58AD 1614 EC40 24A4  B8B3 60B5 4E3F 39AD 0F57 # Bruna de Lara <bruna.delara
 5D90 854D D877 BFB2 0D82  5290 CC1A 0578 52F5 123A # Bruno Sousa <bruno.sousa@firstlook.media>
 5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
 5A68 5EC9 FB3E E455 B4D0  B7FD CFF7 7A0C E5E9 970E # Emilio Moreno <emilio.moreno@theintercept.com>
-F6B5 DEC4 813B EA6E F560  8C38 8C16 737E 86CF CBE3 # Emilio Moreno <emilio.moreno@theintercept.com> REVOKED
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 C62A 2230 5CE2 9617 4C98  E329 C432 3ACF A049 8C34 # João Brizzi <joao.brizzi@firstlook.media>
 103D F158 53B6 3F42 BC63  FFA7 AC28 6F13 C0A1 3C33 # João Filho <joao.filho@firstlook.org>
