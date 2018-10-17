@@ -208,7 +208,7 @@ B7A1 D063 8443 5ED6 B823  A905 0B3E BDDA AFB1 226E # André Souza <andre.souza@t
 8181 4074 4567 8CC4 2992  00E7 83D6 1C01 6FC9 94C1 # Andrew Fishman <fishman@theintercept.com>
 E1DB 58AD 1614 EC40 24A4  B8B3 60B5 4E3F 39AD 0F57 # Bruna de Lara <bruna.delara@theintercept.com>
 5D90 854D D877 BFB2 0D82  5290 CC1A 0578 52F5 123A # Bruno Sousa <bruno.sousa@firstlook.media>
-5FA4 F93E DEFB 91CA DF09  0661 B683 F669 F6A0 1CDF # Cecilia Olliveira <Cecilia.Olliveira@theintercept.com>
+29B6 8E5C 9664 CCCC 1617  CA93 527F 13D6 6C19 0189 # Cecília Olliveira <cecilia.olliveira@firstlook.media>
 5A68 5EC9 FB3E E455 B4D0  B7FD CFF7 7A0C E5E9 970E # Emilio Moreno <emilio.moreno@theintercept.com>
 734A 3680 A438 DD45 AF6F  5B99 A4A9 28C7 69CD 6E44 # Glenn Greenwald <glenn.greenwald@theintercept.com>
 C62A 2230 5CE2 9617 4C98  E329 C432 3ACF A049 8C34 # João Brizzi <joao.brizzi@firstlook.media>
