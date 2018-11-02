@@ -30,6 +30,7 @@ B30F F796 204E 44B3 A0D8  A263 33CF 270A F2AF B4A4 # Catherine Seo <catherine.se
 D228 CF93 4DB8 CAB3 38F9  B0D2 F237 F239 219A 5AB1 # Charlotte Greensit <charlotte.greensit@theintercept.com>
 CC23 B6AE D956 A572 4B81  F476 4E1C 9655 0DB0 0F95 # Cora Currier <cora.currier@theintercept.com>
 8A68 27D9 6609 1069 F2F5  53EA 4148 1B9A B51D 0D73 # Craig Parks <craig.parks@firstlook.media>
+6713 D87B 3347 B190 11E5  7332 4BE8 6F0A C062 98DA # Cynthia Glidden <cynthia.glidden@firstlook.media>
 
 0C65 D284 BC3D 1214 131F  4EE1 C53B 8DED 889B 64D3 # Daniele Owens <daniele.owens@firstlook.org>
 3AA4 8D50 809F ADB2 0A1C  CCB1 B524 CDEB 5528 528A # Danielle Marie Mackey <danielle.mackey@theintercept.com>
@@ -134,7 +135,6 @@ A001 C3A6 AA3E 87F4 967D  61FA D044 A42D 8E71 C28E # Michael Whitney <michael.wh
 8D10 DC92 236F 5FE9 367D  0CEC 3EA8 914C 6790 EAF1 # Murtaza Hussain <murtaza.hussain@theintercept.com>
 
 17C5 6313 5445 E7E5 9A08  16A0 4363 0F7E 2BB9 72D1 # Naomi Klein <naomiaklein@gmail.com>
-E0BE 0804 CF04 A65C 1FC6  4CC4 CAD8 02E0 6604 6C02 # Nat Welch <nat.welch@firstlook.org>
 D022 DBCC D897 91EF 8C14  261D 40D7 A9A6 1BB8 E280 # Naya Samuel <naya.samuel@firstlook.org>
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
