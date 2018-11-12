@@ -201,7 +201,6 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 B25E 64EF 800D E539 72CC  66B1 DCF8 A330 A7D7 28A0 # Yoni Golijov <yoni.golijov@firstlook.media
 
 0531 BA91 49F0 B7F8 67DC  D330 32E1 468F D6AF AB86 # Zach Young <zach.young@theintercept.com>
-8532 3EB2 AA79 3831 6508  7D20 66FA 341D F8F2 D1F1 # Zaid Jilani <zaid.jilani@theintercept.com>
 
 #TIB
 4DE3 5DCF 022D 7C00 18A0  BDD2 7394 0502 F17C C8E7 # Alexandre Santi <alexandre.santi@theintercept.com>
