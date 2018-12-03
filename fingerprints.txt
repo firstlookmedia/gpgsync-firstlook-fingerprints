@@ -1,5 +1,6 @@
 # First Look employees
 2F31 A984 A5C5 85BF AEF4  0732 8FAF 0811 EBB0 7DB7 # Adam Cooper <adam.cooper@firstlook.media>
+4FF1FED44B6CC270035C958A535B39FE42DBA91B  # Adam Neuman <adam.neuman@firstlook.media>
 10EF 5E0D CB62 ED5F 677D  7CB9 A655 203A 353D 2999 # Aida Chavez <aida.chavez@theintercept.com>
 6C57 7D0B 6ABD 6AF3 D513  EF47 A72F 3B3D 3E45 FD67 # Akil Harris <akil.harris@firstlook.org>
 EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@theintercept.com>
@@ -38,6 +39,7 @@ A5A3 68F4 DDEE E4D9 CB77  BE81 2B27 E8F5 E9E1 EF41 # Dan Shearer <dan.shearer@fi
 58D0 C5E1 088B E33C A7C1  F0DF 4A3E D57B 4B87 886B # David Bralow <david.bralow@theintercept.com>
 D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.barreda@firstlook.org>
 AEB2 2E97 8D5A E82B 48B2  F774 AA7F B740 E062 A8B0 # Drew Wilson <drew.wilson@firstlook.media>
+C79782F483C1786960F5 AC4BAE59DC1EF5E9A021 # Dwayne Lutchna <dwayne.lutchna@firstlook.media>
 
 296D 4CBC CBFC 54E3 C5C3  D8C3 C8C3 A735 A3A5 C023 # Eleri Harris <eleri.harris@firstlook.org>
 4FE8 5527 8806 EDB7 FF96  D765 5A6D F1E2 8961 49A2 # Eli Kurland <eli.kurland@firstlook.media>
@@ -138,14 +140,12 @@ A001 C3A6 AA3E 87F4 967D  61FA D044 A42D 8E71 C28E # Michael Whitney <michael.wh
 D022 DBCC D897 91EF 8C14  261D 40D7 A9A6 1BB8 E280 # Naya Samuel <naya.samuel@firstlook.org>
 554B 51F1 FF1E 8270 74BB  B1DC B99C 7E77 0606 8C48 # Nick Borenstein <nick.borenstein@firstlook.org>
 6237 512E C6B0 B707 3B44  647F 0686 C463 AA33 7862 # Nicholas Simmons <nick.simmons@firstlook.org>
-87B3 56FE CD45 1C09 647A  25FE D0A5 A92B C33D B701 # Nikhil Kamkolkar <nikhil.kamkolkar@firstlook.org>
 
 D000 91B5 1864 FFFD FCB3  27E7 3487 3341 DE61 1A63 # Peter Clarke <peter.clarke@firstlook.org>
 0C49 0F9D 179E 263F 9FFE  5080 2198 F5B7 D4E5 391A # Peter Maass <petermaass@theintercept.com>
 CF52 377F CFE2 3197 B482  23A2 B402 ED10 4244 87A2 # Philipp Hubert <philipp.hubert@theintercept.com>
 DCD2 BC7F 5341 A2B9 B188  928A 2CB2 7535 C8A5 4876 # Pierre Omidyar <pierre.omidyar@firstlook.org>
 F5CA 77A0 2223 8C9D 435D  1AC5 C3D5 F86F C8AA 09DA # Prince Quarcoo <prince.quarcoo@firstlook.media>
-D648 6A48 8910 82AB 5336  D469 4A6E 6952 13A5 24E3 # Prince Serna <prince@firstlook.org> OLD
 759F FD83 E0ED 0320 AAE0  07CC DC13 8B15 3B70 5E02 # Prince Serna <prince@firstlook.media>
 
 FFEC 2921 45AD 3811 F216  1C8D 5748 0F6D ED35 CFEA # Raby Yuson <raby.yuson@firstlook.org>
@@ -199,7 +199,6 @@ FCFB 63A8 4D4D 7996 521F  7466 5B42 804B 4E32 59FE # Tosin Adesanya <tosin.adesa
 7D10 41CD 3553 D3C1 61E3  652D 6A85 06B7 EE57 4162 # Winston Varona <winston.varona@firstlook.org>
 
 B25E 64EF 800D E539 72CC  66B1 DCF8 A330 A7D7 28A0 # Yoni Golijov <yoni.golijov@firstlook.media
-
 0531 BA91 49F0 B7F8 67DC  D330 32E1 468F D6AF AB86 # Zach Young <zach.young@theintercept.com>
 
 #TIB
