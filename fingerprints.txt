@@ -234,12 +234,10 @@ F471 B9DE 27FC 17D8 80EC  5D9F D447 BB1E 334A 58B8 # The Nib <thenib@firstlook.o
 
 # Interns
 C798 3511 326B 73D8 4EF7  A689 2B65 704B 58B2 20D4 # Akela Lacy <akela.lacy@theintercept.com>
-6DD1 40A8 BDC6 9033 A09C  59B8 E5A9 4799 FF4D 4DEA # Belle Lin <belle.lin@theintercept.com>
 9789 E081 85E7 E4B9 E97B  AD2A 7BE2 DF2F 139A BA31 # Bernarr Merriett <Bernarr.Merriett@firstlook.media>
 F48F 9A2F 89D8 50D8 858D  112B 2B88 BF0E 75CA 13F5 # Camille Baker <cmb2279@columbia.edu>
 11AA 69AF 292D ECA3 1FD6  97B3 0D31 204F 62CC 2396 # Dina Sayedahmed <dina.sayedahmed@theintercept.com>
 4EF9 B822 CE5A C54A C688  91E4 C12D 07EA 0A0F EEF0 # Dolly Ahluwalia <dolly.ahluwalia@firstlook.media>
-BB77 238D 11DE 4E6F 6FCE  D064 AD14 56D1 5054 2E6D # Henry Yuliano <henry.yuliano@topic.com>
 10BC 87DA 62BF DA8F B8EB  5DF4 9061 9E7A F6C7 8680 # JJ Citron <jj.citron@firstlook.media>
 7854 12EB 8C87 2788 C2E9  6268 13E9 0778 CA14 B3C4 # JuliAnna Patino <julianna.patino@theintercept.com>
 1FA3 A335 9056 1593 4713  CBD7 BB6D 5DDF 27E6 5742 # Krish Dholakiya <krishna.dholakiya@firstlook.media>
