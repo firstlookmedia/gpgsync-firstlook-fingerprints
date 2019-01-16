@@ -213,6 +213,7 @@ C62A 2230 5CE2 9617 4C98  E329 C432 3ACF A049 8C34 # João Brizzi <joao.brizzi@f
 B73C 1DA9 A602 61B5 B6D4  AD2D B7B0 0457 6E48 3CA7 # José Victor Cardoso <josevictor.cardoso@firstlook.media>
 4EA0 BCE3 1528 61BF DA13  0F78 5887 0969 D048 052D # Juliana Gonçalves <juliana.goncalves@theintercept.com>
 0904 DC32 D57D 036D 6ED4  C69F EC5C 4FED 2F00 D82F # Leandro Demori <leandro.demori@theintercept.com>
+E38E00D0029A51019B37745179B058083C86A128 # Luiza Drable <luiza.drable@theintercept.com>
 92BB 80B7 52FA 2ADB 34F0  646A 3281 7199 6359 2643 # Nayara Felizardo <nayara.felizardo@firstlook.media>
 141E 3944 DD0A C3C1 AC8F  59E9 6D18 C9DA 9A8B 5321 # Paula Bianchi <paula.bianchi@theintercept.com>
 E6D6 592C 9731 B2D6 915F  9274 062B A8E5 2763 810A # Rodrigo Bento <rodrigo.bento@theintercept.com>
