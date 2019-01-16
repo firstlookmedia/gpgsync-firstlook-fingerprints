@@ -71,7 +71,6 @@ B7A9 9AE6 EE06 7190 FC19  2F0D 8974 C685 BA51 BC9D # Jeff O'Connell <jeff.oconne
 A5F6 3254 DAD7 88A8 CC01  A69F 7A00 FC1B A6EB 57F2 # John Thomason <john.thomason@firstlook.org>
 7C2A A7C8 D1AF D929 7A04  3C4A 74B5 2358 F0DB CC19 # Jon Schwarz <jon.schwarz@theintercept.com>
 3608 4B2E DB6C 9B76 9865  6D6A 92ED AB63 BA82 B164 # Jordan Hellman <jordan.hellman@firstlook.org>
-C55B 6DC5 292F 84D8 574F  F6B0 1A41 5C2F 3001 FC7C # Jordan Kough <jordan.kough@firstlook.org>
 595A E3C5 7B71 55DF DBC0  5D7E 9A1F 69BA 243F 9AF7 # Jordan Smith <jordan.smith@theintercept.com>
 66AA 0E12 87B6 60A2 109D  E5DE 9297 05D3 ED78 3DA6 # Jorge Jackson <jorge.jackson@firstlook.org>
 00C5 0219 12AF 024D 83CA  4F14 3FA1 0B21 74B3 BEBC # Joseph Poulous <joseph.poulous@firstlook.media>
@@ -83,7 +82,6 @@ CD7B F807 486C DA0B BD52  C20A 500D 209E BAF8 AEDB # Judy Silverman <judy.silver
 
 6CEB A02A C565 B8FA 2EDB  4D3C E792 2CE7 5DF9 139C # Kate Myers <kate.myers@firstlook.org>
 557E 7987 C7C9 4636 9284  FB60 3778 6BD4 E2BE C685 # Kate Zabinsky <kate.zabinsky@topic.com>
-9997 34A9 53FB 59BC 92E8  2103 F8E9 89A1 FD0F F2BA # Katie Sanchez <katie.sanchez@theintercept.com>
 3099 F1C4 DBEC E5B7 E4CB  411B B4FC BA35 E4EF 04EF # Kathleen Baumann <kathleen.baumann@firstlook.org>
 6118 E03C F056 4E22 C663  0D71 A6E7 B828 4E9F FA27 # Katie Schiller <katie.schiller@firstlook.org>
 2362 86DF 9568 1038 E3D3  D8E4 AF25 F39E 8D2D E7A7 # Katie Bigley <katie.bigley@firstlook.media>
@@ -164,7 +162,6 @@ A6AA 12AD 62A6 7479 A0BE  CBCE C005 0B2F 457C F2B2 # Ryan Chanatry <ryan.chanatr
 BB57 4A82 2786 2036 F210  52ED B125 4D34 1EAA B656 # Ryan Heller <ryan.heller@firstlook.org>
 39A4 8C08 6364 A3B7 481A  A9DF 491B B5F1 9E41 8411 # Ryan Tate <ryan.tate@theintercept.com>
 
-A3D8 9684 F180 BF47 5702  E4B8 3FE7 9280 7092 17FF # Sairah Siddique <sairah.siddique@theintercept.com>
 2990 2F6E 2514 ED79 98E6  247E D242 6166 5B4E B695 # Sarah Steven <sarah@omidyargroup.com>
 127F 005D 1093 BA2E 175C  C4E9 1E21 429B A754 4C5E # Sam Biddle <sam.biddle@theintercept.com>
 A769 9B63 3EC7 339E 0A87  3148 2EEF 62B2 DC4F 34BD # Sam Champtaloup <sam.champtaloup@firstlook.org>
