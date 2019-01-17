@@ -7,7 +7,7 @@ EF17 7843 95CD 8335 EAF7  605A AA92 4516 F6DC EAF5 # Alex Emmons <alex.emmons@th
 D692 6F04 E146 63C4 86D0  A32F 81D6 B273 8E4A 6520 # Alex Robbins <alex.robbins@firstlook.media>
 475E 9439 CD88 9D98 52A4  1054 BE99 BD1C A96F D159 # Alexandra Jiga <alexandra.jiga@firstlook.org>
 BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@theintercept.com>
-5D24 0C16 CFE3 F8B2 9616  2653 D39F 6457 6C2E FD79 # Alice Speri <alice.speri@theintercept.com>
+9384530AD3D74370569ECBE8D3E14E5C05D2C530 # Alice Speri <alice.speri@theintercept.com>
 8FBF C86B EFF6 CE21 48EE  0DC5 5937 9E23 EA01 2B37 # Alleen Brown <alleen.brown@theintercept.com>
 3A40 05E9 6AC4 53FD 82A4  4D6D 9F2E 7227 83F4 1CED # Allegra Denton <allegra.denton@firstlook.org>
 769D 12D2 8AF7 1984 4635  2225 440C 5DD6 3CAA 02ED # Amy Chen <amy.chen@firstlook.org>
