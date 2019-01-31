@@ -18,6 +18,8 @@ BB0A 1239 7AE8 24A5 C8A0  8010 E489 775A 995C C81A # Ali Gharib <ali.gharib@thei
 80D5 BE61 36F2 E7D7 27E8  AA9C 0B20 4762 89DC 6102 # Arwyn Icard <arwyn@wfitzpatrick.com>
 
 9E0DD58F7189DAA3A21F03F7ED535499A2BDE349 # Barbara Gray <barbara.gray@firstlook.org>
+C39FC6927704EDD29D0DB4F6827437E8B84EC5CF # Barbara Schiola <barbara.schiola@firstlook.media>
+9AED7DC7C036F73B9BAC50E0BA732B954076C501 # Beatrice Chisholm <beatrice.chisholm@firstlook.media>
 2B51 C18C 7FB8 5D2F 9ECC  DB44 9214 F5D0 A5D8 C204 # Betsy Reed <betsy.reed@theintercept.com>
 9A81 79C1 B495 A91A 7DC4  DEFA 374B 9D73 5208 FD03 # Brenda Coughlin <brendacoughlin@mac.com>
 D62F 2961 7620 4A28 B4FF  8A8C F56E C159 D16A 1204 # Brent Rollins <brent.rollins@firstlook.org>
