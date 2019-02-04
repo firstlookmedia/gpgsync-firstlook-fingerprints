@@ -40,6 +40,7 @@ CC23 B6AE D956 A572 4B81  F476 4E1C 9655 0DB0 0F95 # Cora Currier <cora.currier@
 3AA4 8D50 809F ADB2 0A1C  CCB1 B524 CDEB 5528 528A # Danielle Marie Mackey <danielle.mackey@theintercept.com>
 A5A3 68F4 DDEE E4D9 CB77  BE81 2B27 E8F5 E9E1 EF41 # Dan Shearer <dan.shearer@firstlook.org>
 58D0 C5E1 088B E33C A7C1  F0DF 4A3E D57B 4B87 886B # David Bralow <david.bralow@theintercept.com>
+02B1C44F26285A6A26E3295C942CA69FEFD515FE # David Eichler <david.eichler@firstlook.media>
 D448 5C23 3D50 7F01 E930  4873 46B6 C114 F116 765F # David M. Barreda <david.barreda@firstlook.org>
 AEB2 2E97 8D5A E82B 48B2  F774 AA7F B740 E062 A8B0 # Drew Wilson <drew.wilson@firstlook.media>
 C79782F483C1786960F5AC4BAE59DC1EF5E9A021 # Dwayne Lutchna <dwayne.lutchna@firstlook.media>
