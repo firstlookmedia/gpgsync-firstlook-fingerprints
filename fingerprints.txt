@@ -53,6 +53,7 @@ DED0 AABE 7EC0 64CD 4C53  18C1 4C77 2572 5398 CDAE # Elise Swain <elise.swain@fi
 9BE7 8F29 70D2 A215 9C34  B008 A2E6 CEC9 D3B8 665D # Fei Liu <fei.liu@firstlook.org>
 E77E 1E76 27BA 9B14 2C6D  01C9 E1C6 0D87 1255 4E85 # Felix Sheng <felix.sheng@firstlook.org>
 
+528A4374733442F723D0E8537E5A4CA1255A2487 # Gineen Finch <gineen.finch@firstlook.media>
 4E28 15C0 5FF7 4364 76F2  EE34 788A C78F B92B 5AA7 # Giuseppe Chiara <giuseppe.chiara@firstlook.media>
 CA79 E009 0584 0525 E54C  78A0 D7DC D65F E260 57B8 # Grace Giovannetti <grace.giovannetti@firstlook.org>
 2D26 F55A DA2C FC23 931E  49DC EE2F 8443 4ACE 3301 # Greg Boone <greg.boone@firstlook.media>
