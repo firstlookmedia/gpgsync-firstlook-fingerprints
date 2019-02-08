@@ -217,6 +217,7 @@ B73C 1DA9 A602 61B5 B6D4  AD2D B7B0 0457 6E48 3CA7 # José Victor Cardoso <josev
 E38E00D0029A51019B37745179B058083C86A128 # Luiza Drable <luiza.drable@theintercept.com>
 92BB 80B7 52FA 2ADB 34F0  646A 3281 7199 6359 2643 # Nayara Felizardo <nayara.felizardo@firstlook.media>
 141E 3944 DD0A C3C1 AC8F  59E9 6D18 C9DA 9A8B 5321 # Paula Bianchi <paula.bianchi@theintercept.com>
+70112F8C646ECB912CA55DA46A6D4D56D3B44F55 # Rafael Moro Martins
 E6D6 592C 9731 B2D6 915F  9274 062B A8E5 2763 810A # Rodrigo Bento <rodrigo.bento@theintercept.com>
 1D03147C7535A8B48A6D9BA7AE7A37581D298C03 # Silvia Lisboa <silvia.lisboa@theintercept.com>
 F0AD FEEC E1AB 0A59 AFD4  846B DE3F A703 CFD2 5AEB # tatiana dias <tatiana.dias@theintercept.com>
